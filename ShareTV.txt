@@ -14,7 +14,7 @@ https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 https://node1.olelive.com:6443/live/CCTV8HD.live.flv
 
 #EXTINF:-1 tvg-id="" group-title="TRUNG QUỐC" tvg-logo="https://www.tvchinese.net/uploads/tv/guangdongtv.jpg", Guangdong TV
-https://www.gdtv.cn/fe4915bd-6f6b-47ca-8f5c-5731e51fccd0
+https://tcdn.itouchtv.cn/live/gdws.m3u8?t_token=bd79aca02727884ea2d7fa5303594eca-GZfq%2BT%2FbAqBzzPslXsxxrfDVvNsLj5yrdz7ui38iW41FRfldFGZYY7MJcHtuIjQ7HVJkMbhqo8kHuJeQcJqBXGgM3tcFxZo9KiOGmpkKdMHt9ivoWk7muQMX6fm%2BBEUiitrA9EAg2d2SYDXcaoN4Lf7ij5NbqZoZ5ZLutrROYI71VSTbnLJ8FuH7nzt10M%2BN3QHnoCc37OgazKSgjMBzyNoqdM4b%2BgPS%2B%2BZtaXQ1M3l0NptuL5x2g6CUmfG2jKOqZp9ZLWxeJVBGvyLqSjqIsT7mVSkb1%2FYrPb4uj0NycNrwwqQLC98gWmUsrjVR4hRHUOuDh81Zs%2BoqSieCcg4citvZRoMZ9hxIn0WYqquwgmo0MrneU48qAbr8q%2FgX8hczeC9gvIIIq9kJkKT%2Fl7O8krqSAmccxkm5nsYUftHUGUJPc9fEdUDkD9Cr%2FZuoFrPcEsvVeGf0AVG8Voyt%2FPVp4Z%2F7wyqRwv%2BIo1OjpOZ0SMk%3D
 
 
 

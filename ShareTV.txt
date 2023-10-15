@@ -14,7 +14,7 @@ https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 https://node1.olelive.com:6443/live/CCTV8HD.live.flv
 
 #EXTINF:-1 tvg-id="" group-title="TRUNG QUỐC" tvg-logo="https://www.tvchinese.net/uploads/tv/guangdongtv.jpg", Guangdong TV
-blob:https://www.gdtv.cn/fe4915bd-6f6b-47ca-8f5c-5731e51fccd0
+https://www.gdtv.cn/fe4915bd-6f6b-47ca-8f5c-5731e51fccd0
 
 
 

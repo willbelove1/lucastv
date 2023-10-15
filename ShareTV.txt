@@ -16,6 +16,21 @@ https://node1.olelive.com:6443/live/CCTV8HD.live.flv
 #EXTINF:-1 tvg-id="" group-title="TRUNG QUỐC" tvg-logo="https://www.tvchinese.net/uploads/tv/guangdongtv.jpg", Guangdong TV
 https://tcdn.itouchtv.cn/live/gdws.m3u8?t_token=bd79aca02727884ea2d7fa5303594eca-GZfq%2BT%2FbAqBzzPslXsxxrfDVvNsLj5yrdz7ui38iW41FRfldFGZYY7MJcHtuIjQ7HVJkMbhqo8kHuJeQcJqBXGgM3tcFxZo9KiOGmpkKdMHt9ivoWk7muQMX6fm%2BBEUiitrA9EAg2d2SYDXcaoN4Lf7ij5NbqZoZ5ZLutrROYI71VSTbnLJ8FuH7nzt10M%2BN3QHnoCc37OgazKSgjMBzyNoqdM4b%2BgPS%2B%2BZtaXQ1M3l0NptuL5x2g6CUmfG2jKOqZp9ZLWxeJVBGvyLqSjqIsT7mVSkb1%2FYrPb4uj0NycNrwwqQLC98gWmUsrjVR4hRHUOuDh81Zs%2BoqSieCcg4citvZRoMZ9hxIn0WYqquwgmo0MrneU48qAbr8q%2FgX8hczeC9gvIIIq9kJkKT%2Fl7O8krqSAmccxkm5nsYUftHUGUJPc9fEdUDkD9Cr%2FZuoFrPcEsvVeGf0AVG8Voyt%2FPVp4Z%2F7wyqRwv%2BIo1OjpOZ0SMk%3D
 
+#EXTINF:-1 tvg-id="" group-title="TRUNG QUỐC" tvg-logo="https://www.tvchinese.net/uploads/tv/tvs1.jpg", TVS1 Economic Technology
+
+#EXTINF:-1 tvg-id="" group-title="TRUNG QUỐC" tvg-logo="https://www.tvchinese.net/uploads/tv/tvs2.jpg", TVS2 Southern TV
+
+#EXTINF:-1 tvg-id="" group-title="TRUNG QUỐC" tvg-logo="https://www.tvchinese.net/uploads/tv/tvs3.jpg", TVS3 Variety Channel
+
+#EXTINF:-1 tvg-id="" group-title="TRUNG QUỐC" tvg-logo="https://www.tvchinese.net/uploads/tv/tvs4.jpg", TVS4 Drama Channel
+
+#EXTINF:-1 tvg-id="" group-title="TRUNG QUỐC" tvg-logo="https://www.tvchinese.net/uploads/tv/tvs5.jpg", TVS5 Children Channel
+
+
+
+
+
+
 
 
 

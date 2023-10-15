@@ -13,6 +13,8 @@ https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 #EXTINF:-1 tvg-id="" group-title="TRUNG QUỐC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/CCTV-8.png/revision/latest?cb=20220111072628", CCTV 8 HD
 https://node1.olelive.com:6443/live/CCTV8HD.live.flv
 
+#EXTINF:-1 tvg-id="" group-title="TRUNG QUỐC" tvg-logo="https://www.tvchinese.net/uploads/tv/guangdongtv.jpg", Guangdong TV
+https://tcdn.itouchtv.cn/live/gdws.m3u8?t_token=89171dafdc5148a6168feb5712c1c548-KtPt8TKtlkxmk0MIygE0f%2FD2Ov9V1gFzWIBaL1RgCmb9GzZRpoTnq%2B37Z3cBs5Svam%2BDyLkw55GiofHs%2B02lSeSo4aJ3r1LRGQkWYNvEye9LyJlbhZU2EjOIhkFzDaWfcTW0Xi5URBk7SCI7dprYLhD6CzFXLmHZFO0d%2B7YuTwg%2BlT0ZkmWrVcgMLN1%2FtfMrgX8Ih9rJ4rC%2B7l4lu%2Fvz1p5wXLtdLqwbrzIbE3sxlaQze%2FK1p3p%2BXfclflw2%2Bzx4Phyj7C9k3EKTokJ2L5pdzjQ3oLKWioEmSOL5CMuXRfyK4OQkFzvd7O0tEGmDz6U%2FnaHJEed%2BCrt0jmM3NImzXCLDaZwMZkuVBIOofYW05llsUu2m6tUU9Zja9jk0RzAEuk0xZbABHvTx6iYgNNSZatbnuijAqw2u2pmhIKNHSSG9hqhXb1xjpuh8btFHvCn2
 
 
 

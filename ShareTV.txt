@@ -2,39 +2,39 @@
 #EXTM3U LucasTV
 #https://playlist.vthanhtivi.pw/
 
-#EXTINF:-1 tvg-id="cctv1" group-title="TRUNG QUỐC" tvg-logo="https://i.ibb.co/YkcfTtW/CCTV-1-BEARTV.png", CCTV1 HD
+#EXTINF:-1 tvg-id="cctv1" group-title="" tvg-logo="https://i.ibb.co/YkcfTtW/CCTV-1-BEARTV.png", CCTV1 HD
 https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8?token=
-#EXTINF:-1 tvg-id="" group-title="TRUNG QUỐC" tvg-logo="https://i.ibb.co/4P7MxRX/CCTV-5-BEARTV.png", CCTV 5
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://i.ibb.co/4P7MxRX/CCTV-5-BEARTV.png", CCTV 5
 https://node1.olelive.com:6443/live/CCTV5HD.live.flv
-#EXTINF:-1 tvg-id="" group-title="TRUNG QUỐC" tvg-logo="https://i.ibb.co/XFv65sL/CCTV-5-BEARTV.png", CCTV 5+
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://i.ibb.co/XFv65sL/CCTV-5-BEARTV.png", CCTV 5+
 https://node1.olelive.com:6443/live/CCTV5PHD.live.flv
-#EXTINF:-1 tvg-id="cctv13" group-title="TRUNG QUỐC" tvg-logo="https://i.ibb.co/ygWxrDm/cctv13-BEARTV.png", CCTV13 HD
+#EXTINF:-1 tvg-id="cctv13" group-title="" tvg-logo="https://i.ibb.co/ygWxrDm/cctv13-BEARTV.png", CCTV13 HD
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
-#EXTINF:-1 tvg-id="" group-title="TRUNG QUỐC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/CCTV-8.png/revision/latest?cb=20220111072628", CCTV 8 HD
+#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/CCTV-8.png/revision/latest?cb=20220111072628", CCTV 8 HD
 https://node1.olelive.com:6443/live/CCTV8HD.live.flv
 
-#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" group-title="TRUNG QUỐC" tvg-logo="https://www.tvchinese.net/uploads/tv/guangdongtv.jpg", Guangdong TV
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" group-title="GuangDong" tvg-logo="https://www.tvchinese.net/uploads/tv/guangdongtv.jpg", Guangdong TV
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
-#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" group-title="TRUNG QUỐC" tvg-logo="https://www.tvchinese.net/uploads/tv/guangdongtv.jpg", Guangdong TV dự phòng
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" group-title="GuangDong" tvg-logo="https://www.tvchinese.net/uploads/tv/guangdongtv.jpg", Guangdong TV dự phòng
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225803/index.m3u8
-#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" group-title="TRUNG QUỐC" tvg-logo="https://www.tvchinese.net/uploads/tv/guangdongtv.jpg", Guangdong TV dự phòng 01
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" group-title="GuangDong" tvg-logo="https://www.tvchinese.net/uploads/tv/guangdongtv.jpg", Guangdong TV dự phòng 01
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226216/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" group-title="TRUNG QUỐC" tvg-logo="https://www.tvchinese.net/uploads/tv/tvs1.jpg", TVS1 Economic Technology
+#EXTINF:-1 tvg-id="" group-title="GuangDong" tvg-logo="https://www.tvchinese.net/uploads/tv/tvs1.jpg", TVS1 Economic Technology
 
-#EXTINF:-1 tvg-id="" group-title="TRUNG QUỐC" tvg-logo="https://www.tvchinese.net/uploads/tv/tvs2.jpg", TVS2 Southern TV
+#EXTINF:-1 tvg-id="" group-title="GuangDong" tvg-logo="https://www.tvchinese.net/uploads/tv/tvs2.jpg", TVS2 Southern TV
 http://39.135.138.58:18890/PLTV/88888888/224/3221226203/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="TRUNG QUỐC" tvg-logo="https://www.tvchinese.net/uploads/tv/tvs2.jpg", TVS2 Southern TV
+#EXTINF:-1 tvg-id="" group-title="GuangDong" tvg-logo="https://www.tvchinese.net/uploads/tv/tvs2.jpg", TVS2 Southern TV
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="TRUNG QUỐC" tvg-logo="https://www.tvchinese.net/uploads/tv/tvs3.jpg", TVS3 Variety Channel
+#EXTINF:-1 tvg-id="" group-title="GuangDong" tvg-logo="https://www.tvchinese.net/uploads/tv/tvs3.jpg", TVS3 Variety Channel
 
-#EXTINF:-1 tvg-id="" group-title="TRUNG QUỐC" tvg-logo="https://www.tvchinese.net/uploads/tv/tvs4.jpg", TVS4 Drama Channel
+#EXTINF:-1 tvg-id="" group-title="GuangDong" tvg-logo="https://www.tvchinese.net/uploads/tv/tvs4.jpg", TVS4 Drama Channel
 
-#EXTINF:-1 tvg-id="" group-title="TRUNG QUỐC" tvg-logo="https://www.tvchinese.net/uploads/tv/tvs5.jpg", TVS5 Children Channel
+#EXTINF:-1 tvg-id="" group-title="GuangDong" tvg-logo="https://www.tvchinese.net/uploads/tv/tvs5.jpg", TVS5 Children Channel
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8
 
 

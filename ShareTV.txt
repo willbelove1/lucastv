@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://trada.info/epg.xml,https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/guide.xml,http://epg.51zmt.top:8000/e.xml,http://iptvx.one/EPG,http://epg.it999.ru/epg.xml.gz,http://epg.51zmt.top:8000/,http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 
+#EXTM3U url-tvg="http://trada.info/epg.xml, http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 
 #EXTM3U LucasTV
 #https://playlist.vthanhtivi.pw/
 

@@ -283,7 +283,7 @@ https://code.vthanhtivi.pw/getlink/sctvonline/sctv3/playlist.m3u8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://code.vthanhtivi.pw/getlink/sctvonline/sctv4/playlist.m3u8
 #EXTINF:-1 tvg-id="sctv6hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/68.png", SCTV6 HD
-https://code.vthanhtivi.pw/getlink/tv360/2si8W6Enj9vBlSqQhhmprw/1704113057/232/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/tv360/WAdNkJA1bCjMpdW7B-Ckjw/1706552119/232/playlist.m3u8
 #EXTINF:-1 tvg-id="sctv7hd" group-title="💚| SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/69.png", SCTV7 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://code.vthanhtivi.pw/getlink/sctvonline/sctv7/playlist.m3u8

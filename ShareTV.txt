@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://trada.info/epg.xml, http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 
+#EXTM3U url-tvg="http://trada.info/epg.xml, http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml, http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml,http://cdn.hqth.me/vthanhmovies_schedule.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 
 #EXTM3U LucasTV
 #https://playlist.vthanhtivi.pw/
 
@@ -158,17 +158,17 @@ https://code.vthanhtivi.pw/getlink/htv/htv1-2631/playlist.m3u8
 #EXTINF:-1 tvg-id="htv2hd" group-title="💛| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/48.png", HTV2 - Vie Channel
 https://code.vthanhtivi.pw/getlink/htv/htv2-hd-2669/playlist.m3u8
 #EXTINF:-1 tvg-id="htv3" group-title="💛| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/49.png", HTV3
-https://code.vthanhtivi.pw/getlink/tv360/zEhokQo2essieJtSBe_9FA/1706286801/192/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/tv360/Pxm1ZBMY0ksz8pXLLJ4Edw/1706550558/192/playlist.m3u8
 #EXTINF:-1 tvg-id="htv4" group-title="💛| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/50.png", HTV Key
 https://code.vthanhtivi.pw/getlink/htv/htv-keys-2528/playlist.m3u8
 #EXTINF:-1 tvg-id="htv7hd" group-title="💛| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/51.png", HTV7 HD
-https://code.vthanhtivi.pw/getlink/fptplay/56XNOFFG93OdSrfNqvxirA/1706286801/htv7-hd/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/fptplay/98-wDM2zrUej0eNy43dOng/1706550558/htv7-hd/playlist.m3u8
 #EXTINF:-1 tvg-id="htv9hd" group-title="💛| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/52.png", HTV9 HD
-https://code.vthanhtivi.pw/getlink/tv360/tzhSYQxWnffTZievuRgPRA/1706286801/194/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/tv360/ZHm9Hp_JJy9xNlsUB-dbYw/1706550558/194/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="💛| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/265.png", HTV CO.OP
 https://code.vthanhtivi.pw/getlink/htv/htv-coop-sd-31973/playlist.m3u8
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="💛| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/53.png", HTV Thể Thao
-https://code.vthanhtivi.pw/getlink/tv360/XojpJL8acf5Px1vwkpW90w/1706286801/195/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/tv360/y6cFeirs4DC9lFxQGYzrQQ/1706550558/195/playlist.m3u8
 
 #EXTINF:-1 tvg-id="htvcthuanviet" group-title="💛| HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/54.png", HTVC Thuần Việt
 https://code.vthanhtivi.pw/getlink/htv/htvc-thuan-viet-hd-2398/playlist.m3u8

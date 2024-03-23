@@ -13,7 +13,7 @@ https://playlist.vthanhtivi.pw
 
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+" group-logo="https://cdn.hqth.me/logo/category/kplus.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE
-http://103.77.172.5:5000/vod/muakplus.mp4/index.m3u8
+https://playlist.vthanhtivi.pw
 #EXTINF:-1 tvg-id="kaction" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+ ACTION 
 http://103.77.172.5:5000/vod/muakplus.mp4/index.m3u8
 #EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 

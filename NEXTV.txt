@@ -9,7 +9,7 @@
 
 
 
-
+https://playlist.vthanhtivi.pw
 
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+" group-logo="https://cdn.hqth.me/logo/category/kplus.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE

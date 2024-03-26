@@ -13,6 +13,24 @@
 
 
 
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+" group-logo="https://cdn.hqth.me/logo/category/kplus.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE
+http://vnorig.vthanhtivi.pw/kcine/index.m3u8
+#EXTINF:-1 tvg-id="kaction" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+ ACTION 
+http://vnorig.vthanhtivi.pw/kaction/index.m3u8
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 
+http://vnorig.vthanhtivi.pw/ksport1/index.m3u8
+#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 
+http://vnorig.vthanhtivi.pw/ksport2/index.m3u8
+#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ KIDS 
+http://vnorig.vthanhtivi.pw/kkids/index.m3u8
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="TVB Vietnam" group-title="SCTV" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/tvbv.jpg", TVB Vietnam

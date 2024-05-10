@@ -9,8 +9,8 @@
 
 
 
-#EXTINF:-1 tvg-id="phim" group-title="phim" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", phim 
-https://vip.opstream13.com/20240308/3158_bcc3c1ce/3000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/p_abugslife_19869_f035d6d4.jpeg", A bug's life 
+https://s1.phim1280.tv/20231022/vbIObM6P/index.m3u8
 
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" group-logo="https://cdn.hqth.me/logo/category/kplus.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE

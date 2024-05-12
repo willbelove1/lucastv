@@ -3,7 +3,7 @@
 #https://playlist.vthanhtivi.pw/
 #http://gg.gg/tv2026
 
-#EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/p_abugslife_19869_f035d6d4.jpeg", HÀNH TINH KHỈ: VƯƠNG QUỐC MỚI (VIETSUB)
+#EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://img.ophim.live/uploads/movies/hanh-tinh-khi-vuong-quoc-moi-poster.jpg", HÀNH TINH KHỈ: VƯƠNG QUỐC MỚI (VIETSUB)
 https://vip.opstream13.com/20240512/3974_8cbcb022/index.m3u8
 
 

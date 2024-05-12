@@ -3,7 +3,8 @@
 #https://playlist.vthanhtivi.pw/
 #http://gg.gg/tv2026
 
-
+#EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/p_abugslife_19869_f035d6d4.jpeg", HÀNH TINH KHỈ: VƯƠNG QUỐC MỚI (VIETSUB)
+https://vip.opstream13.com/20240512/3974_8cbcb022/index.m3u8
 
 #EXTINF:-1 group-title="🎬| Movies - Phim lẻ" tvg-logo="https://assets.glxplay.io/images/w800/title/crimson-snout_web_posterLandscape_beac7cf6567559d30bbf117790dbf4f5.jpg", Quỷ cẩu - Crimson Snout
 http://103.77.172.5:5244/d/VThanhVOD/Phim%20l%E1%BA%BB%20VThanh%20NW/Qu%E1%BB%B7%20c%E1%BA%A9u%20-%20Crimson%20Snout%20-%20Remuxed%20by%20VThanh%20Network.mkv

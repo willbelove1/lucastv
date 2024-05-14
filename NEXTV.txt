@@ -10,7 +10,7 @@
 
 
 #EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/p_abugslife_19869_f035d6d4.jpeg", A bug's life 
-https://vd205.mycdn.me/expires/1715750394445/clientType/0/srcIp/116.100.140.234/type/2/mid/7951419574861/id/6640178891341/ms/45.136.22.13/srcAg/CHROME/urls/185.226.52.58/pr/10/ct/29/sig/KlQYG-_S_W0/ondemand/dash4_6640178891341.CM2UqKy15wEwzdbb3IwRQM3W29yMEVAKpR8tUet_kDk=.mpd&selected_id=video_high
+https://vkvd215.mycdn.me/expires/1715923346620/clientType/13/srcIp/116.100.140.234/type/2/mid/7323393140855/id/6293584480887/ms/45.136.22.204/srcAg/CHROME/urls/45.136.21.145/pr/40/ct/29/sig/3JNtymQ9r74/subs/y/asubs/y/ondemand/dash4_6293584480887.CPfQ_OGR1QE496K1lgNI96K1lgNQKFgNT774sU1KhJ8=.mpd&selected_id=video_ultrahd
 
 
 

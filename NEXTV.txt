@@ -10,10 +10,9 @@
 
 
 #EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/p_abugslife_19869_f035d6d4.jpeg", A bug's life 
-https://s1.phim1280.tv/20231022/vbIObM6P/index.m3u8
+https://vd205.mycdn.me/expires/1715750394445/clientType/0/srcIp/116.100.140.234/type/2/mid/7951419574861/id/6640178891341/ms/45.136.22.13/srcAg/CHROME/urls/185.226.52.58/pr/10/ct/29/sig/KlQYG-_S_W0/ondemand/dash4_6640178891341.CM2UqKy15wEwzdbb3IwRQM3W29yMEVAKpR8tUet_kDk=.mpd&selected_id=video_high
 
-#EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/p_abugslife_19869_f035d6d4.jpeg", A bug's life 
-https://short.ink/U_9OnTwcL
+
 
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="K+" group-logo="https://cdn.hqth.me/logo/category/kplus.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE

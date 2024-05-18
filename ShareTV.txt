@@ -6,9 +6,11 @@
 #EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://img.ophim.live/uploads/movies/hanh-tinh-khi-vuong-quoc-moi-poster.jpg", HÀNH TINH KHỈ: VƯƠNG QUỐC MỚI (VIETSUB)
 https://vip.opstream13.com/20240512/3974_8cbcb022/index.m3u8
 
+#EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://img.phimapi.com/upload/vod/20240423-1/7b281d88350fd638d84dc9abb5b6b0a6.jpg", MAI (BẢN ĐẸP)
+https://s3.phim1280.tv/20240517/kHTjz9g4/index.m3u8
 
-
-
+#EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://img.phimapi.com/upload/vod/20240402-1/9451c8ca38286b82764df85a9e51723c.jpg", Godzilla x Kong: Đế Chế Mới (VIETSUB)
+https://s3.phim1280.tv/20240517/2Ln9JibR/index.m3u8
 
 
 

@@ -26,7 +26,7 @@ https://g4awrwdnyorf.sw-cdnstreamwish.com/hls2/01/03837/h4zg050i2fx8_,n,h,x,.url
 
 
 #EXTINF:-1 tvg-id="Phim TVB" group-title="Phim bộ TVB" tvg-logo="https://phimmoi.tech/wp-content/uploads/2024/05/danhtieng2.jpeg", Danh tiếng gia tộc phần 2 tập 5
-
+https://6i0f2riqeyuq4.sw-cdnstreamwish.com/hls2/01/03863/g6yxfx97nl6o_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=7cIxW_f14TbU1_RMItVQSbJYkk7xK8kv-RVMCBiLFTE&s=1716131934&e=129600&f=19317078&srv=qajructf54pm&i=0.0&sp=500&p1=qajructf54pm&p2=qajructf54pm&asn=24086
 
 #EXTINF:-1 tvg-id="Phim TVB" group-title="Phim bộ TVB" tvg-logo="https://phimmoi.tech/wp-content/uploads/2024/05/danhtieng2.jpeg", Danh tiếng gia tộc phần 2 tập 6
 

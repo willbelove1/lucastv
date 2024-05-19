@@ -13,9 +13,22 @@ https://s3.phim1280.tv/20240517/kHTjz9g4/index.m3u8
 https://s3.phim1280.tv/20240517/2Ln9JibR/index.m3u8
 
 
-#EXTINF:-1 tvg-id="Phim TVB" group-title="Phim TVB" tvg-logo="https://phimmoi.tech/wp-content/uploads/2024/05/danhtieng2.jpeg", Danh tiếng gia tộc phần 2 tập 1
+#EXTINF:-1 tvg-id="Phim TVB" group-title="Phim bộ TVB" tvg-logo="https://phimmoi.tech/wp-content/uploads/2024/05/danhtieng2.jpeg", Danh tiếng gia tộc phần 2 tập 1
 https://wboswjed1.sw-cdnstreamwish.com/hls2/01/03832/7it1zks0bfpz_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=aEK5o8R90ttk5hgIH4wry54beKFb0Wfod7KS_pGDfDY&s=1716131331&e=129600&f=19161407&srv=e9ccawf5esyyffhp&i=0.4&sp=500&p1=e9ccawf5esyyffhp&p2=e9ccawf5esyyffhp&asn=24086
 
+#EXTINF:-1 tvg-id="Phim TVB" group-title="Phim bộ TVB" tvg-logo="https://phimmoi.tech/wp-content/uploads/2024/05/danhtieng2.jpeg", Danh tiếng gia tộc phần 2 tập 2
+https://g4awrwdnyorf.sw-cdnstreamwish.com/hls2/01/03837/h4zg050i2fx8_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=GvGKdLptTOnPWxofuxLptXABF8q5QFMmUqOiX3ZP3TU&s=1716131640&e=129600&f=19189510&srv=meuzahgd24x5v&i=0.0&sp=500&p1=meuzahgd24x5v&p2=meuzahgd24x5v&asn=24086
+
+#EXTINF:-1 tvg-id="Phim TVB" group-title="Phim bộ TVB" tvg-logo="https://phimmoi.tech/wp-content/uploads/2024/05/danhtieng2.jpeg", Danh tiếng gia tộc phần 2 tập 3
+
+
+#EXTINF:-1 tvg-id="Phim TVB" group-title="Phim bộ TVB" tvg-logo="https://phimmoi.tech/wp-content/uploads/2024/05/danhtieng2.jpeg", Danh tiếng gia tộc phần 2 tập 4
+
+
+#EXTINF:-1 tvg-id="Phim TVB" group-title="Phim bộ TVB" tvg-logo="https://phimmoi.tech/wp-content/uploads/2024/05/danhtieng2.jpeg", Danh tiếng gia tộc phần 2 tập 5
+
+
+#EXTINF:-1 tvg-id="Phim TVB" group-title="Phim bộ TVB" tvg-logo="https://phimmoi.tech/wp-content/uploads/2024/05/danhtieng2.jpeg", Danh tiếng gia tộc phần 2 tập 6
 
 
 

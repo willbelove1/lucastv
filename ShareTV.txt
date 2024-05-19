@@ -20,7 +20,7 @@ https://wboswjed1.sw-cdnstreamwish.com/hls2/01/03832/7it1zks0bfpz_,n,h,x,.urlset
 https://g4awrwdnyorf.sw-cdnstreamwish.com/hls2/01/03837/h4zg050i2fx8_,n,h,x,.urlset/index-f3-v1-a1.m3u8?t=GvGKdLptTOnPWxofuxLptXABF8q5QFMmUqOiX3ZP3TU&s=1716131640&e=129600&f=19189510&srv=meuzahgd24x5v&i=0.0&sp=500&p1=meuzahgd24x5v&p2=meuzahgd24x5v&asn=24086
 
 #EXTINF:-1 tvg-id="Phim TVB" group-title="Phim bộ TVB" tvg-logo="https://phimmoi.tech/wp-content/uploads/2024/05/danhtieng2.jpeg", Danh tiếng gia tộc phần 2 tập 3
-
+https://vod.cf.dmcdn.net/sec2(iQMePPu-_0nH_Qh1gt01_vtV983o-SQjQVu6-Ke20c08stTlVgXkOXM51SBq-O96TU5KqX5ryu0qF1KOUm82sft8OZUYJLo4-6lL_IASBv3eUsJlDI4EXBSniH6m5yW-Q44ycQvH5xCzwHm4_2LLwA)/video/223/860/542068322_source_1.m3u8
 
 #EXTINF:-1 tvg-id="Phim TVB" group-title="Phim bộ TVB" tvg-logo="https://phimmoi.tech/wp-content/uploads/2024/05/danhtieng2.jpeg", Danh tiếng gia tộc phần 2 tập 4
 

@@ -72,7 +72,7 @@ https://scontent-fra5-2.xx.fbcdn.net/o1/v/t2/f2/m69/An-_jNsCxo7yFbYLwgTw3Z1oTCft
 
 
 #EXTINF:-1 tvg-id="Truyền hình vệ tinh Quảng Đông" group-title="Truyền hình vệ tinh Quảng Đông" tvg-logo="https://img.gdtv.cn/image/202212/0.922000490569147761fbecf64d4705c1fOSS1670410666.png", GuangDongTV
-https://tcdn.itouchtv.cn/live/gdzy.m3u8?t_token=5003eccaa2a422cb69e1ed68a85fa2fb-2rkomSi6DF9WL02GWdba0KvDmcgbwwYEpybW5VyrmFbnFKoR6dnd31DXywQAjpwqSwuN1MQgeFUiAU3htu3ZCa52oiifd4Eejv4blcBfls4yPILyVTO8iFBuEIImW6tIRJKnpnsoLfar%2F22%2BmhLyNp%2FtnYhCZXT9Tmsi2xtzgNbCOhK6dWsGvyC1tBSHwiKixGprVCsXfzX8l9ZIDQDKFKJGNF59T84EPGVXminqhSIQb8pcekacT%2FjX9wgRDd7v2BcGTtwGVcPss%2B9q0CE1vzI%2BQS9uJF7OZRvCtQY2D2aY3KsAojzRkBJPCPC%2BUfynWM22gsZUzJFjsDnE62SP3dTugFarDhVo1OcyOae%2BFFBJwZPBB0I06AYDAhspKdfFwmXNTF47W1xDoMWFzdT9Y1LK4TxgTvbG6bDZq1jWs%2BrPkv1fe00pAWLUDJZmeBaVwduRlxUqfDvMSf8AlDmc7w%3D%3D
+https://selizhi.gdtv.cn/live/selive.gdtv.cn_gdse-1716224081387.ts?auth_key=1716225865-0-0-72306884884c24a895d2de4d83bf94d4
 
 
 

@@ -34,8 +34,8 @@ https://vod.cf.dmcdn.net/sec2(DVPo4W--HgxKxDzExqgpAikDZVeXh-4tkGdky38L0TgwnQBV3Q
 #EXTINF:-1 tvg-id="Phim TVB" group-title="Danh tiếng gia tộc phần 2" tvg-logo="https://phimmoi.tech/wp-content/uploads/2024/05/danhtieng2.jpeg", Danh tiếng gia tộc phần 2 tập 7
 https://vod.cf.dmcdn.net/sec2(A1aDis9GhKC31u84KbCCcUQnZxP6wMqNFwMiQRXHTftwf1VYjVEx4bvPfd2FsISkX8osh0L5ie_K-Eq0NcWuPYTZqYZ6JGqivWu120xBVlpwHieQzcXPTmbanxilX5B9dwnL3C1WwPvT1FaWgKSL6A)/video/894/042/542240498_mp4_h264_aac_fhd_1.m3u8
 
-#EXTINF:-1 tvg-id="Phim TVB" group-title="Danh tiếng gia tộc phần 2" tvg-logo="https://phimmoi.tech/wp-content/uploads/2024/05/danhtieng2.jpeg", Danh tiếng gia tộc phần 2 tập 8 raw
-https://vod.cf.dmcdn.net/sec2(cLUX-xBzgml6auEicx35yeLhuwRkm-d6Lp4jYx3rJavMQ9zdiZRtKzDKYcOaYuHrNT9A_NRGHbXl5irNe7lckHpSUZKCvzHyMFKJiG_XiKLzaSd3S5o6arPQE7nKyAmFMFamsWGv1Ae8E3S91dzotQ)/video/402/351/542153204_mp4_h264_aac_hd_1.m3u8
+#EXTINF:-1 tvg-id="Phim TVB" group-title="Danh tiếng gia tộc phần 2" tvg-logo="https://phimmoi.tech/wp-content/uploads/2024/05/danhtieng2.jpeg", Danh tiếng gia tộc phần 2 tập 8 
+https://vod.cf.dmcdn.net/sec2(MsAK1aJ7v85SdluwwiT1T0uuFEz829L1VhBdW4iCcdia9v5L1EwC7yOIEVKDeIh2ORW8OEpm8kaoMGMDpX1sCU0Cgfq3DBHJojK9okHCnmQPcdHO5WuMJmZP-lVjZ0FD6fGHmcpHFUA-YMl37p5O0Q)/video/017/743/542347710_source_1.m3u8
 
 #EXTINF:-1 tvg-id="Phim TVB" group-title="Danh tiếng gia tộc phần 2" tvg-logo="https://phimmoi.tech/wp-content/uploads/2024/05/danhtieng2.jpeg", Danh tiếng gia tộc phần 2 tập 9 raw
 https://vod.cf.dmcdn.net/sec2(tT_3GYNxCVkM9snZYk8kK_RSu3j6oemoAfmn0p7Xj-t4mcBC01xco9mT842DF9PtNgm2QGSvFDSqwyxgX3H-CXLqYdSCbHAcZi873YZkZCt-qjAhwpjRQluoee_oW3O68hdSQ_QL3xqHqV7eLZZzMw)/video/802/351/542153208_mp4_h264_aac_hd_1.m3u8

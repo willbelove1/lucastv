@@ -56,11 +56,11 @@ https://e8.endpoint.cdn.sctvonline.vn/channel/sctv3/index.m3u8
 https://e8.endpoint.cdn.sctvonline.vn/hls/sctv4/index.m3u8
 
 #EXTINF:-1 tvg-id="sctv5hd" group-title="SCTV" tvg-logo="https://i.ibb.co/dM17yWZ/sctv5-BEARTV.png" ,SCTV 5
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv5/index.m3u8
+#https://e1.endpoint.cdn.sctvonline.vn/channel/sctv5/index.m3u8
 #EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://i.ibb.co/tBfNQVR/SCTV6-BEARTV.png",SCTV 6
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referer=https://sctvonline.vn/
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv6/index.m3u8
+#https://e1.endpoint.cdn.sctvonline.vn/channel/sctv6/index.m3u8
 #EXTINF:-1 tvg-id="sctv7hd" group-title="SCTV" tvg-logo="https://i.ibb.co/X8fCcpx/sctv7-hd-BEARTV.png" ,SCTV 7 - Sân Khấu
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referer=https://sctvonline.vn/
@@ -97,7 +97,7 @@ https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV14.smil/chunklist_b1692000.m
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referer=https://sctvonline.vn/
 #https://e7.endpoint.cdn.sctvonline.vn/live/SCTV15HD/chunklist_w231107188.m3u8
-https://uy7qk2oykpliv.vcdn.cloud/hls/sctv15/index.m3u8
+#https://uy7qk2oykpliv.vcdn.cloud/hls/sctv15/index.m3u8
 #EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://i.ibb.co/CMr9xN0/sctv16-hd-BEARTV.png" ,SCTV 16 - Phim Nước Ngoài
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referer=https://sctvonline.vn/
@@ -105,7 +105,7 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/index.m3u8
 #EXTINF:-1 tvg-id="sctv17hd" group-title="SCTV" tvg-logo="https://i.ibb.co/R48wrKp/sctv17-hd-BEARTV.png" ,SCTV 17 - SSPORT 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referer=https://sctvonline.vn/
-https:///e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV17.smil/chunklist_w1642410250_b1692000.m3u8
+#https:///e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV17.smil/chunklist_w1642410250_b1692000.m3u8
 #EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://i.ibb.co/72PK5Nr/sctv18-hd-BEARTV.png" ,SCTV 18
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referer=https://sctvonline.vn/

@@ -53,13 +53,13 @@ https://scontent-fra5-2.xx.fbcdn.net/o1/v/t2/f2/m69/An_fT8w_kjAqhnYJfMdG6hvpBSvS
 https://scontent-fra5-2.xx.fbcdn.net/o1/v/t2/f2/m69/An8k2MrVjogNrTJV18iiAL1vqSjalAWm1C8PEo2ymFwhxIei7j1pGQUC5IdT3d26KIWAAJObJjKs1opXq0837ZAG.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ht=scontent-fra5-2.xx.fbcdn.net&_nc_cat=105&strext=1&vs=4e1369456d384806&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HSUNXbUFCUEpxcU5mSVVEQUV2dTlSSkFJalZ5Ym1kakFBQUYVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dEUGhnaHAxMlRpakZ6Y0VBT1BQd0d6dS1UbFhidjRHQUFBRhUCAsgBAEsHiBJwcm9ncmVzc2l2ZV9yZWNpcGUBMQ1zdWJzYW1wbGVfZnBzABB2bWFmX2VuYWJsZV9uc3ViACBtZWFzdXJlX29yaWdpbmFsX3Jlc29sdXRpb25fc3NpbQAoY29tcHV0ZV9zc2ltX29ubHlfYXRfb3JpZ2luYWxfcmVzb2x1dGlvbgAddXNlX2xhbmN6b3NfZm9yX3ZxbV91cHNjYWxpbmcAEWRpc2FibGVfcG9zdF9wdnFzABUAJQAcjBdAAAAAAAAAABERAAAAJqzE45iNh4wEFQIoAkMzGAt2dHNfcHJldmlldxwXQKUnhR64UewYIWRhc2hfZ2VuMmh3YmFzaWNfaHEyX2ZyYWdfMl92aWRlbxIAGBh2aWRlb3MudnRzLmNhbGxiYWNrLnByb2Q4ElZJREVPX1ZJRVdfUkVRVUVTVBsKiBVvZW1fdGFyZ2V0X2VuY29kZV90YWcGb2VwX2hkE29lbV9yZXF1ZXN0X3RpbWVfbXMBMAxvZW1fY2ZnX3J1bGUHdW5tdXRlZBNvZW1fcm9pX3JlYWNoX2NvdW50ATARb2VtX2lzX2V4cGVyaW1lbnQADG9lbV92aWRlb19pZBAxMzU1ODQ3MDc4Mzk1NjQ0Em9lbV92aWRlb19hc3NldF9pZBAxNDk4Nzk0NDcwOTkwNTM3FW9lbV92aWRlb19yZXNvdXJjZV9pZBAxMTUyNDEwMjE1ODA1MjA2HG9lbV9zb3VyY2VfdmlkZW9fZW5jb2RpbmdfaWQPNDUzNzY3NjEzODYxODI4DnZ0c19yZXF1ZXN0X2lkACUCHAAlxAEbB4gBcwQxMDg3AmNkCjIwMjQtMDUtMjADcmNiATADYXBwBVZpZGVvAmN0GUNPTlRBSU5FRF9QT1NUX0FUVEFDSE1FTlQTb3JpZ2luYWxfZHVyYXRpb25fcwsyNzA3Ljc3MTc5MQJ0cxVwcm9ncmVzc2l2ZV9lbmNvZGluZ3MA&ccb=9-4&oh=00_AYBoHP504cJ2Edl3B1WwLTOeKadtu1MgFpOQdKAmNZsZlg&oe=664D861E&_nc_sid=1d576d&_nc_rid=925211546053241&_nc_store_type=1
 
 #EXTINF:-1 tvg-id="Phim TVB" group-title="Danh tiếng gia tộc phần 2" tvg-logo="https://phimmoi.tech/wp-content/uploads/2024/05/danhtieng2.jpeg", Danh tiếng gia tộc phần 2 tập 14 raw
-
+https://vod.cf.dmcdn.net/sec2(0tf6dgQVH7KbD9WGTJlEUcyd2l8-Fyxxo6Y3FPHkVk_2kgKncCVTjk0fODS6IYpBGuVPg8nItTDHUqRft6gQqgz9A1AorUFL1d-_zazipufRhExMmTjz6uLVELHvaCQ8Vu3Cg_v6FKECZaYTs3IcoA)/video/048/643/542346840_mp4_h264_aac_hd_1.m3u8
 
 #EXTINF:-1 tvg-id="Phim TVB" group-title="Danh tiếng gia tộc phần 2" tvg-logo="https://phimmoi.tech/wp-content/uploads/2024/05/danhtieng2.jpeg", Danh tiếng gia tộc phần 2 tập 15 raw
-
+https://vod.cf.dmcdn.net/sec2(FDWvh__sSFRXXovVi4d1ShTMos0vbFkzL5WdSjVBqRRKqcsivYrZCCp0Duk0A-f6YTHEFmen2Ch3N5by-y5XCDb8OcJu-1m9r8wkHrhH_8E7VL1jMIRJOgfgPoV3zU9-bJUliLMv-O91ungNh8GAHQ)/video/838/643/542346838_mp4_h264_aac_hd_1.m3u8
 
 #EXTINF:-1 tvg-id="Phim TVB" group-title="Danh tiếng gia tộc phần 2" tvg-logo="https://phimmoi.tech/wp-content/uploads/2024/05/danhtieng2.jpeg", Danh tiếng gia tộc phần 2 tập 16 raw
-
+https://vod.cf.dmcdn.net/sec2(hC_XIz1gJ3iokN_Vm2cUgMYi2G3vXv53OkAS5k3HMKlSm06OHpaiWx6_CYC1nIc5lYCOSOPmLFm2ZinvPLcZ5iTEgKvmAMO5MPYwCzQaIYM0vvb2_wlihm8Lw6rJQkOC0cqOcyN4AQK9-A91NFADrg)/video/638/643/542346836_mp4_h264_aac_hd_1.m3u8
 
 #EXTINF:-1 tvg-id="Phim TVB" group-title="Danh tiếng gia tộc phần 2" tvg-logo="https://phimmoi.tech/wp-content/uploads/2024/05/danhtieng2.jpeg", Danh tiếng gia tộc phần 2 tập 17 raw
 

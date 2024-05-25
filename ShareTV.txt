@@ -13,8 +13,8 @@ https://s3.phim1280.tv/20240517/kHTjz9g4/index.m3u8
 https://s3.phim1280.tv/20240517/2Ln9JibR/index.m3u8
 
 
-
-
+#EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://instagram.fsgn5-2.fna.fbcdn.net/v/t39.30808-6/434279101_807662528061797_1312644695901263954_n.jpg?stp=dst-jpg_e35_p480x480&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNjM4eDIwNDguc2RyLmYzMDgwOCJ9&_nc_ht=instagram.fsgn5-2.fna.fbcdn.net&_nc_cat=105&_nc_ohc=2RQzkrePua4Q7kNvgEf7iKB&edm=ALQROFkAAAAA&ccb=7-5&ig_cache_key=MzMzNzE1MTA2MDU1NDY0OTIyNg%3D%3D.2-ccb7-5&oh=00_AYBY3p5UW5B2xcKkkmU_KEDN7xUw0zVrxwt3H0At-uPB5Q&oe=6657AD78&_nc_sid=fc8dfb", Lật mặt 7: 1 điều uước (Fancam)
+https://video.xx.fbcdn.net/v/t42.1790-2/10000000_1557154764860113_7840529556973747321_n.mp4?_nc_cat=108&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjUzMiwicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjo0MjIzMjQwMjI3OTAyMzkwfQ%3D%3D&_nc_ohc=BqWJpZvc954Q7kNvgFDHwU3&rl=532&vabr=296&_nc_ht=scontent-hel3-1.xx&oh=00_AYDqkgHB-3epb1On17dlsT9_JFRN56fbEq8wVrv_dZ0DQg&oe=6655D1E1
 
 
 

@@ -17,6 +17,17 @@ https://scontent.cdninstagram.com/o1/v/t2/f2/m69/An-U26WzVkT6_loLfpY-zkIvIQfMngP
 
 
 
+#EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://img.ophim.live/uploads/movies/vay-ham-ke-trung-phat-poster.jpg", VÂY HÃM: KẺ TRỪNG PHẠT (VIETSUB)
+https://vip.opstream13.com/20240527/4143_aa4e366e/index.m3u8
+
+
+#EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://img.ophim.live/uploads/movies/furiosa-cau-chuyen-tu-max-dien-poster.jpg", FURIOSA: CÂU CHUYỆN TỪ MAX ĐIÊN (VIETSUB)
+https://vip.opstream13.com/20240531/4184_bdccb6ba/index.m3u8
+
+
+#EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://v3.ghienphim.me/uploads/diem-bao-cua-quy-The-First-Omen.jpg?v=1717158530", Điềm Báo Của Quỷ (VIETSUB)
+https://scontent.cdninstagram.com/o1/v/t2/f2/m69/An_w24hjNA5t7RL7hVndrcUvp9oJVYPN_P67A6y98Jh-D6S9p27maIEGJOQXONwPPzMIJkiH01ux9LDXnhw5Y0I.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ht=scontent-hel3-1.xx.fbcdn.net&_nc_cat=107&strext=1&vs=25d3036d15f086a3&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HSUNXbUFBdGdwcHlmVUFCQUh1MDJBWVpaaG9kYm1kakFBQUYVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dEcFlweG9zdEFsQ2w3UUJBQWdEMGw5UmV6RWRickZxQUFBRhUCAsgBAEsHiBJwcm9ncmVzc2l2ZV9yZWNpcGUBMQ1zdWJzYW1wbGVfZnBzABB2bWFmX2VuYWJsZV9uc3ViACBtZWFzdXJlX29yaWdpbmFsX3Jlc29sdXRpb25fc3NpbQAoY29tcHV0ZV9zc2ltX29ubHlfYXRfb3JpZ2luYWxfcmVzb2x1dGlvbgAddXNlX2xhbmN6b3NfZm9yX3ZxbV91cHNjYWxpbmcAEWRpc2FibGVfcG9zdF9wdnFzABUAJQAcjBdAAAAAAAAAABERAAAAJsas6sbz%2BNUCFQIoAkMzGAt2dHNfcHJldmlldxwXQLwjiDEm6XkYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHASABgYdmlkZW9zLnZ0cy5jYWxsYmFjay5wcm9kOBJWSURFT19WSUVXX1JFUVVFU1QbCogVb2VtX3RhcmdldF9lbmNvZGVfdGFnBm9lcF9oZBNvZW1fcmVxdWVzdF90aW1lX21zATAMb2VtX2NmZ19ydWxlB3VubXV0ZWQTb2VtX3JvaV9yZWFjaF9jb3VudAEwEW9lbV9pc19leHBlcmltZW50AAxvZW1fdmlkZW9faWQQMTY2MTkxNDQxNDU3OTA5NxJvZW1fdmlkZW9fYXNzZXRfaWQQMTE3Mjg5OTE1NDAyNTQ5MBVvZW1fdmlkZW9fcmVzb3VyY2VfaWQPNzUxOTQ0MDIzNzU1NTU1HG9lbV9zb3VyY2VfdmlkZW9fZW5jb2RpbmdfaWQPOTIyMTU2NDQzMDEzMjgyDnZ0c19yZXF1ZXN0X2lkACUCHAAlxAEbB4gBcwQyNjY0AmNkCjIwMjQtMDUtMzEDcmNiATADYXBwBVZpZGVvAmN0GUNPTlRBSU5FRF9QT1NUX0FUVEFDSE1FTlQTb3JpZ2luYWxfZHVyYXRpb25fcwg3MjAzLjQ4NAJ0cxVwcm9ncmVzc2l2ZV9lbmNvZGluZ3MA&ccb=9-4&oh=00_AYAAso7zIPA4-lfcdb7z1ccVP-0kNfiOatyh5aZWb7pn9g&oe=6666639A&_nc_sid=1d576d&_nc_rid=237964127208586&_nc_store_type=1
+
 
 
 

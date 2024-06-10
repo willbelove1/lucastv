@@ -34,6 +34,13 @@ https://scontent.cdninstagram.com/o1/v/t2/f2/m69/An_w24hjNA5t7RL7hVndrcUvp9oJVYP
 https://scontent.cdninstagram.com/v/t42.1790-2/10000000_1557154764860113_7840529556973747321_n.mp4?_nc_cat=108&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjUzMiwicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjo0MjIzMjQwMjI3OTAyMzkwfQ%3D%3D&_nc_ohc=8WYuJ0-TM5AQ7kNvgFiuV3O&rl=532&vabr=296&_nc_ht=scontent-hel3-1.xx&oh=00_AYDokzIhL9UAFkt55qnzIW8HoTvYViCBYHXjcwlXZvOhbA&oe=666AE9E1
 
 
+#EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://img.phimapi.com/upload/vod/20240319-1/72195bc6fd8ffa3063dc86ec088b6ffb.jpg", Đất Rừng Phương Nam
+https://s3.phim1280.tv/20240319/ym2SFUf0/index.m3u8
+
+
+
+
+
 
 
 

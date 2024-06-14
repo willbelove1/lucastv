@@ -37,8 +37,8 @@ https://scontent.cdninstagram.com/v/t42.1790-2/10000000_1557154764860113_7840529
 #EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://img.phimapi.com/upload/vod/20240319-1/72195bc6fd8ffa3063dc86ec088b6ffb.jpg", Đất Rừng Phương Nam
 https://s3.phim1280.tv/20240319/ym2SFUf0/index.m3u8
 
-
-
+#EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://www.vietphucinema.com/temp/-uploaded-phim-12.2022_thanhsoidocnew2_cr_500x700.jpg", Thanh Sói – Cúc Dại Trong đêm (bản đẹp)
+https://kd.hd-bophim.com/20230324/34048_149720e6/3000k/hls/mixed.m3u8
 
 
 

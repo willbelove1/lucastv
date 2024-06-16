@@ -8,6 +8,12 @@
 
 
 
+#EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://img.phimapi.com/upload/vod/20240423-1/7b281d88350fd638d84dc9abb5b6b0a6.jpg", MAI (BẢN ĐẸP)
+https://abysscdn.com/?v=5IxEi2TP_/index.m3u8
+
+
+
+
 
 
 #-------------------------K+---------------------------#

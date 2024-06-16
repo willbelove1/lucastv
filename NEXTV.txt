@@ -17,31 +17,31 @@ https://helvid.net/play/index/61c2ee814ca5
 
 
 #-------------------------K+---------------------------#
-#EXTINF:-1 group-title="K+" tvg-logo="https://i.imgur.com/eVrn5Bp.png",K+ Sport 1 HD FPT (DRM)
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://i.imgur.com/eVrn5Bp.png",K+ Sport 1 HD FPT (DRM)
 http://118.71.162.156:4022/udp/225.1.1.73:30120
-#EXTINF:-1 group-title="K+" tvg-logo="https://i.imgur.com/famc6Ss.png",K+ Sport 2 HD FPT (DRM)
+#EXTINF:-1 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://i.imgur.com/famc6Ss.png",K+ Sport 2 HD FPT (DRM)
 http://118.71.162.156:4022/udp/225.1.1.77:30120
-#EXTINF:-1 group-title="K+" tvg-logo="https://i.imgur.com/OpcWkSd.png",K+ Cine HD FPT (DRM)
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://i.imgur.com/OpcWkSd.png",K+ Cine HD FPT (DRM)
 http://118.71.162.156:4022/udp/225.1.1.5:30120
-#EXTINF:-1 group-title="K+" tvg-logo="https://i.imgur.com/mFWSR9z.png",K+ Action HD FPT (DRM)
+#EXTINF:-1 tvg-id="kaction" group-title="K+" tvg-logo="https://i.imgur.com/mFWSR9z.png",K+ Action HD FPT (DRM)
 http://118.71.162.156:4022/udp/225.1.1.6:30120
-#EXTINF:-1 group-title="K+" tvg-logo="https://i.imgur.com/7R6Bkfd.png",K+ Kids HD FPT (DRM)
+#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://i.imgur.com/7R6Bkfd.png",K+ Kids HD FPT (DRM)
 http://118.71.162.156:4022/udp/225.1.1.76:30120
-#EXTINF:0 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ Action MYTV (DRM)
+#EXTINF:0 tvg-id="kaction" group-title="K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ Action MYTV (DRM)
 http://113.175.179.141:4022/rtp/232.84.1.123:10320
-#EXTINF:0 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ Cine MYTV (DRM)
+#EXTINF:0 tvg-id="kcinehd" group-title="K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ Cine MYTV (DRM)
 http://113.175.179.141:4022/rtp/232.84.1.122:10314
-#EXTINF:0 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ Sport 1 MYTV (DRM)
+#EXTINF:0 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ Sport 1 MYTV (DRM)
 http://113.175.179.141:4022/rtp/232.84.1.125:10326
-#EXTINF:0 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ Sport 2 MYTV (DRM)
+#EXTINF:0 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ Sport 2 MYTV (DRM)
 http://113.175.179.141:4022/rtp/232.84.1.176:10374
-#EXTINF:0 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ Action MYTV (DRM)
+#EXTINF:0 tvg-id="kaction" group-title="K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ Action MYTV (DRM)
 http://113.175.179.141:4022/rtp/232.84.1.97:8556
-#EXTINF:0 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ Cine MYTV (DRM)
+#EXTINF:0 tvg-id="kcinehd" group-title="K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ Cine MYTV (DRM)
 http://113.175.179.141:4022/rtp/232.84.1.96:8550
-#EXTINF:0 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ Sport 1 MYTV (DRM)
+#EXTINF:0 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ Sport 1 MYTV (DRM)
 http://113.175.179.141:4022/rtp/232.84.1.98:8562
-#EXTINF:0 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ Sport 2 MYTV (DRM)
+#EXTINF:0 tvg-id="ksport2hd" group-title="K+" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ Sport 2 MYTV (DRM)
 http://113.175.179.141:4022/rtp/232.84.1.131:10368
 #-------------------------K+---------------------------#
 

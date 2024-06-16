@@ -139,7 +139,7 @@ https://vc.101vn.com/htv/htvcmb.php?id=2528
 https://vc.101vn.com/htv/htvcmb.php?id=256
 #EXTINF:-1 tvg-id="htv9hd" group-title="HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/52.png",HTV9 
 https://vc.101vn.com/htv/htvcmb.php?id=2667
-#EXTINF:0 tvg-id="htvthethaohd" group-title="HTV" group-logo="https://i.imgur.com/2MYvCZa.png" tvg-logo="https://i.imgur.com/z7NOxJ3.png",HTV Thể Thao
+#EXTINF:0 tvg-id="htvthethaohd" group-title="HTV" group-logo="https://img.hplus.com.vn/728x409/banner/2018/07/16/200515-111250-HTVTT.png",HTV Thể Thao
 http://171.238.180.25:18080/304.m3u8
 #-------------------------HTV---------------------------#
 

@@ -47,7 +47,8 @@ https://scontent.cdninstagram.com/o1/v/t2/f2/m69/An8QuyLwez4J5W9r_hA2XDvhuNVvKK0
 #EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://img.ophim.live/uploads/movies/cuu-long-thanh-trai-vay-thanh-poster.jpg", Cửu Long Thành Trại: Vây Thành (bản cũng đẹp fullHD)
 https://vip.opstream13.com/20240621/4408_a866d311/index.m3u8
 
-
+#EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://img.ophim.live/uploads/movies/cuu-long-thanh-trai-vay-thanh-poster.jpg", Cửu Long Thành Trại: Vây Thành (bản thuyết minh)
+https://vd382.mycdn.me/?expires=1719246269134&srcIp=116.109.98.16&pr=10&srcAg=CHROME&ms=45.136.20.11&type=5&sig=8_XP4iTmszc&ct=11&urls=45.136.21.17&clientType=0&id=6673287285353
 
 
 

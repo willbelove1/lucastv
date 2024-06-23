@@ -9,7 +9,7 @@
 
 
 #EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://img.phimapi.com/upload/vod/20240423-1/7b281d88350fd638d84dc9abb5b6b0a6.jpg", MAI (BẢN ĐẸP)
-
+https://fs201.10gb.download/files/5/cq9vkqmzg1n46a/video.mkv
 
 
 

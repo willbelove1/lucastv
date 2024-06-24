@@ -8,8 +8,8 @@
 
 
 
-#EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://img.phimapi.com/upload/vod/20240423-1/7b281d88350fd638d84dc9abb5b6b0a6.jpg", MAI (BẢN ĐẸP)
-https://fs201.10gb.download/files/5/cq9vkqmzg1n46a/video.mkv
+#EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://v4.ghienphim.me/uploads/cuu-long-thanh-trai-vay-thanh-Twilight-of-the-Warriors-Walled-In_banner_.jpg?v=1719028894", Cửu Long thành trại - Vây thành (thuyết minh)
+https://vd382.mycdn.me/?expires=1719246269134&srcIp=116.109.98.16&pr=10&srcAg=CHROME&ms=45.136.20.11&type=5&sig=8_XP4iTmszc&ct=11&urls=45.136.21.17&clientType=0&id=6673287285353
 
 
 

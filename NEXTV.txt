@@ -9,7 +9,7 @@
 
 
 #EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://v4.ghienphim.me/uploads/cuu-long-thanh-trai-vay-thanh-Twilight-of-the-Warriors-Walled-In_banner_.jpg?v=1719028894", Cửu Long thành trại - Vây thành (thuyết minh)
-https://vkvd105.mycdn.me/expires/1720764419761/clientType/13/srcIp/116.109.98.16/type/2/mid/7624074274935/id/6755028175479/ms/185.226.53.149/srcAg/CHROME/urls/45.136.22.199/pr/40/ct/29/sig/FU-kHvpe28I/subs/y/asubs/y/ondemand/dash4_6755028175479.CPfQ9PHx3QE496K1lgNI96K1lgNQKFgNnrmJ9ZUrx1I.mpd&selected_id=video_high
+https://vod3.cf.dmcdn.net/sec2(0OFlQYq-uyteg1jpQyWR_gI7Qwh4XUbmp4a1F-YBK-axzDhB35qpty41KJovB8wzsIX8GzkI2tx0LFmCR1GiY5pHF5-n1FUvXg7WBlTYOZOAK4j7KJK30uixf5n7bf_RmEaiAng8_8KADifLvojdBg)/video/274/291/547192472_source_1.m3u8
 
 
 

@@ -9,16 +9,34 @@
 
 
 #EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://phim.nguonc.com/public/images/Post/8/thieu-nien-bach-ma-tuy-xuan-phong-ban-truyen-hinh-1.jpg", Thiếu Niên Bạch Mã Túy Xuân Phong 1
-https://sing.phimmoi.net/741392a2b1d353d1bbe0a756b293642a/hls.m3u8
+https://vip.opstream17.com/20240719/15268_b42e959c/index.m3u8
 
 #EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://phim.nguonc.com/public/images/Post/8/thieu-nien-bach-ma-tuy-xuan-phong-ban-truyen-hinh-1.jpg", Thiếu Niên Bạch Mã Túy Xuân Phong 2
-https://sing.phimmoi.net/988aa6d89eba030c01501c17110e76a2/hls.m3u8
+https://vip.opstream17.com/20240719/15272_14faee5e/index.m3u8
 
 #EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://phim.nguonc.com/public/images/Post/8/thieu-nien-bach-ma-tuy-xuan-phong-ban-truyen-hinh-1.jpg", Thiếu Niên Bạch Mã Túy Xuân Phong 3
-https://sing.phimmoi.net/8fad8b55421fca60bb992830122fd427/hls.m3u8
+https://vip.opstream17.com/20240719/15276_2a6b4ade/index.m3u8
 
 #EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://phim.nguonc.com/public/images/Post/8/thieu-nien-bach-ma-tuy-xuan-phong-ban-truyen-hinh-1.jpg", Thiếu Niên Bạch Mã Túy Xuân Phong 4
-https://sing.phimmoi.net/33a1e8b6c9aa8d7befe24bd8ec0a62bc/hls.m3u8
+https://vip.opstream17.com/20240719/15279_ba7f1557/index.m3u8
+
+#EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://phim.nguonc.com/public/images/Post/8/thieu-nien-bach-ma-tuy-xuan-phong-ban-truyen-hinh-1.jpg", Thiếu Niên Bạch Mã Túy Xuân Phong 5
+https://vip.opstream17.com/20240720/15419_8ef9b66d/index.m3u8
+
+#EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://phim.nguonc.com/public/images/Post/8/thieu-nien-bach-ma-tuy-xuan-phong-ban-truyen-hinh-1.jpg", Thiếu Niên Bạch Mã Túy Xuân Phong 6
+https://vip.opstream17.com/20240720/15420_830ea568/index.m3u8
+
+#EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://phim.nguonc.com/public/images/Post/8/thieu-nien-bach-ma-tuy-xuan-phong-ban-truyen-hinh-1.jpg", Thiếu Niên Bạch Mã Túy Xuân Phong 7
+
+
+#EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://phim.nguonc.com/public/images/Post/8/thieu-nien-bach-ma-tuy-xuan-phong-ban-truyen-hinh-1.jpg", Thiếu Niên Bạch Mã Túy Xuân Phong 8
+
+
+#EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://phim.nguonc.com/public/images/Post/8/thieu-nien-bach-ma-tuy-xuan-phong-ban-truyen-hinh-1.jpg", Thiếu Niên Bạch Mã Túy Xuân Phong 9
+
+
+#EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://phim.nguonc.com/public/images/Post/8/thieu-nien-bach-ma-tuy-xuan-phong-ban-truyen-hinh-1.jpg", Thiếu Niên Bạch Mã Túy Xuân Phong 10
+
 
 #-------------------------K+---------------------------#
 #EXTINF:-1 tvg-id="ksport1hd" group-title="K+" tvg-logo="https://i.imgur.com/eVrn5Bp.png",K+ Sport 1 HD FPT (DRM)

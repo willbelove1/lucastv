@@ -4,6 +4,9 @@
 #http://gg.gg/tv2026
 
 
+#EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://img.ophim.live/uploads/movies/loc-xoay-tu-than-poster.jpg", LỐC XOÁY TỬ THẦN (VIETSUB)
+https://vip.opstream13.com/20240721/4841_793f2d26/index.m3u8
+
 #EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://img.ophim.live/uploads/movies/garfield-meo-beo-sieu-quay-poster.jpg", Garfield - Mèo Béo Siêu Quậy fullHD (VIETSUB)
 https://vip.opstream17.com/20240709/14639_d8a190d3/index.m3u8
 
@@ -25,9 +28,6 @@ https://s3.phim1280.tv/20240517/kHTjz9g4/index.m3u8
 #EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://img.phimapi.com/upload/vod/20240402-1/9451c8ca38286b82764df85a9e51723c.jpg", Godzilla x Kong: Đế Chế Mới (VIETSUB)
 https://s3.phim1280.tv/20240517/2Ln9JibR/index.m3u8
 
-#EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://cdn.tuoitre.vn/471584752817336320/2024/5/20/base64-1716185294474529951276.jpeg", Dâu Hào Môn Bản Full (2024)
-https://scontent.cdninstagram.com/o1/v/t2/f2/m69/An-U26WzVkT6_loLfpY-zkIvIQfMngPomWV_fDNnAir_CQhN5V0ngmIcuvHTh7AzWzYgoKbxaYHK2NxyTI9_-qdR.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ht=scontent-hel3-1.xx.fbcdn.net&_nc_cat=106&strext=1&vs=4b388460e9d478f2&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HSUNXbUFBTE9DbExNWklCQUtOOW1RcE9KZGNFYm1kakFBQUYVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dJQ1dtQUJBazFJRmFmTURBTW82RzAtdl9JWkxickZxQUFBRhUCAsgBAEsHiBJwcm9ncmVzc2l2ZV9yZWNpcGUBMQ1zdWJzYW1wbGVfZnBzABB2bWFmX2VuYWJsZV9uc3ViACBtZWFzdXJlX29yaWdpbmFsX3Jlc29sdXRpb25fc3NpbQAoY29tcHV0ZV9zc2ltX29ubHlfYXRfb3JpZ2luYWxfcmVzb2x1dGlvbgAddXNlX2xhbmN6b3NfZm9yX3ZxbV91cHNjYWxpbmcAEWRpc2FibGVfcG9zdF9wdnFzABUAJQAcjBdAAAAAAAAAABERAAAAJorcg8CrqYYDFQIoAkMzGAt2dHNfcHJldmlldxwXQL%2FBeuFHrhQYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHASABgYdmlkZW9zLnZ0cy5jYWxsYmFjay5wcm9kOBJWSURFT19WSUVXX1JFUVVFU1QbCogVb2VtX3RhcmdldF9lbmNvZGVfdGFnBm9lcF9oZBNvZW1fcmVxdWVzdF90aW1lX21zATAMb2VtX2NmZ19ydWxlB3VubXV0ZWQTb2VtX3JvaV9yZWFjaF9jb3VudAEwEW9lbV9pc19leHBlcmltZW50AAxvZW1fdmlkZW9faWQQMTQ5NjEwNTc4NzY2MjE2MRJvZW1fdmlkZW9fYXNzZXRfaWQQNzg1ODE0MzY3NzU4Mzc1MRVvZW1fdmlkZW9fcmVzb3VyY2VfaWQPODU4MzI5MjgyODAzNDYxHG9lbV9zb3VyY2VfdmlkZW9fZW5jb2RpbmdfaWQQMTAyMjU5MDczMjY2NTM1NA52dHNfcmVxdWVzdF9pZAAlAhwAJcQBGweIAXMEOTUxMQJjZAoyMDI0LTA2LTA2A3JjYgEwA2FwcAVWaWRlbwJjdBlDT05UQUlORURfUE9TVF9BVFRBQ0hNRU5UE29yaWdpbmFsX2R1cmF0aW9uX3MIODEyOS41MTYCdHMVcHJvZ3Jlc3NpdmVfZW5jb2RpbmdzAA%3D%3D&ccb=9-4&oh=00_AYAX1CeejeMmbNQ3Ce6DgmRH_G-87JFEsmPQWBsxAOOmuw&oe=66664F87&_nc_sid=1d576d&_nc_rid=037185233754162&_nc_store_type=1
-
 
 
 #EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://img.ophim.live/uploads/movies/vay-ham-ke-trung-phat-poster.jpg", VÂY HÃM: KẺ TRỪNG PHẠT (VIETSUB)
@@ -39,12 +39,12 @@ https://vip.opstream13.com/20240531/4184_bdccb6ba/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://v3.ghienphim.me/uploads/diem-bao-cua-quy-The-First-Omen.jpg?v=1717158530", Điềm Báo Của Quỷ (VIETSUB)
-https://scontent.cdninstagram.com/o1/v/t2/f2/m69/An_w24hjNA5t7RL7hVndrcUvp9oJVYPN_P67A6y98Jh-D6S9p27maIEGJOQXONwPPzMIJkiH01ux9LDXnhw5Y0I.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ht=scontent-hel3-1.xx.fbcdn.net&_nc_cat=107&strext=1&vs=25d3036d15f086a3&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HSUNXbUFBdGdwcHlmVUFCQUh1MDJBWVpaaG9kYm1kakFBQUYVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dEcFlweG9zdEFsQ2w3UUJBQWdEMGw5UmV6RWRickZxQUFBRhUCAsgBAEsHiBJwcm9ncmVzc2l2ZV9yZWNpcGUBMQ1zdWJzYW1wbGVfZnBzABB2bWFmX2VuYWJsZV9uc3ViACBtZWFzdXJlX29yaWdpbmFsX3Jlc29sdXRpb25fc3NpbQAoY29tcHV0ZV9zc2ltX29ubHlfYXRfb3JpZ2luYWxfcmVzb2x1dGlvbgAddXNlX2xhbmN6b3NfZm9yX3ZxbV91cHNjYWxpbmcAEWRpc2FibGVfcG9zdF9wdnFzABUAJQAcjBdAAAAAAAAAABERAAAAJsas6sbz%2BNUCFQIoAkMzGAt2dHNfcHJldmlldxwXQLwjiDEm6XkYGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHASABgYdmlkZW9zLnZ0cy5jYWxsYmFjay5wcm9kOBJWSURFT19WSUVXX1JFUVVFU1QbCogVb2VtX3RhcmdldF9lbmNvZGVfdGFnBm9lcF9oZBNvZW1fcmVxdWVzdF90aW1lX21zATAMb2VtX2NmZ19ydWxlB3VubXV0ZWQTb2VtX3JvaV9yZWFjaF9jb3VudAEwEW9lbV9pc19leHBlcmltZW50AAxvZW1fdmlkZW9faWQQMTY2MTkxNDQxNDU3OTA5NxJvZW1fdmlkZW9fYXNzZXRfaWQQMTE3Mjg5OTE1NDAyNTQ5MBVvZW1fdmlkZW9fcmVzb3VyY2VfaWQPNzUxOTQ0MDIzNzU1NTU1HG9lbV9zb3VyY2VfdmlkZW9fZW5jb2RpbmdfaWQPOTIyMTU2NDQzMDEzMjgyDnZ0c19yZXF1ZXN0X2lkACUCHAAlxAEbB4gBcwQyNjY0AmNkCjIwMjQtMDUtMzEDcmNiATADYXBwBVZpZGVvAmN0GUNPTlRBSU5FRF9QT1NUX0FUVEFDSE1FTlQTb3JpZ2luYWxfZHVyYXRpb25fcwg3MjAzLjQ4NAJ0cxVwcm9ncmVzc2l2ZV9lbmNvZGluZ3MA&ccb=9-4&oh=00_AYAAso7zIPA4-lfcdb7z1ccVP-0kNfiOatyh5aZWb7pn9g&oe=6666639A&_nc_sid=1d576d&_nc_rid=237964127208586&_nc_store_type=1
+
 
 
 
 #EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://v3.ghienphim.me/uploads/lat-mat-7-mot-dieu-uoc.jpg?v=1714058091", Lật Mặt 7 Một Điều Ước ( Full Cam )
-https://scontent.cdninstagram.com/v/t42.1790-2/10000000_1557154764860113_7840529556973747321_n.mp4?_nc_cat=108&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjUzMiwicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCIsInZpZGVvX2lkIjo0MjIzMjQwMjI3OTAyMzkwfQ%3D%3D&_nc_ohc=8WYuJ0-TM5AQ7kNvgFiuV3O&rl=532&vabr=296&_nc_ht=scontent-hel3-1.xx&oh=00_AYDokzIhL9UAFkt55qnzIW8HoTvYViCBYHXjcwlXZvOhbA&oe=666AE9E1
+
 
 
 #EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://img.phimapi.com/upload/vod/20240319-1/72195bc6fd8ffa3063dc86ec088b6ffb.jpg", Đất Rừng Phương Nam
@@ -54,14 +54,13 @@ https://s3.phim1280.tv/20240319/ym2SFUf0/index.m3u8
 https://kd.hd-bophim.com/20230324/34048_149720e6/3000k/hls/mixed.m3u8
 
 #EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://iguov8nhvyobj.vcdn.cloud/media/catalog/product/cache/1/image/c5f0a1eff4c394a251036189ccddaacd/1/0/1080x1350-insideout.jpg", Những Mảnh Ghép Cảm Xúc 2 ( Full Cam Vietsub )
-https://scontent.cdninstagram.com/o1/v/t2/f2/m69/An8QuyLwez4J5W9r_hA2XDvhuNVvKK0H7rDdbJPQ36NhFoYHiXR0gAeQkcAXAhi9axoylWgZnUymKxJTracyUeLo.mp4?efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ht=scontent-hel3-1.xx.fbcdn.net&_nc_cat=104&strext=1&vs=70aff516aabf2ba4&_nc_vs=HBksFQIYOnBhc3N0aHJvdWdoX2V2ZXJzdG9yZS9HSUNXbUFERGVER3BQYWdEQU1vYVZLQ0puSFV3Ym1kakFBQUYVAALIAQAVAhg6cGFzc3Rocm91Z2hfZXZlcnN0b3JlL0dHLUx1eHFpSDVycFdyY0JBTEdCUWc1QlJ3azNickZxQUFBRhUCAsgBAEsHiBJwcm9ncmVzc2l2ZV9yZWNpcGUBMQ1zdWJzYW1wbGVfZnBzABB2bWFmX2VuYWJsZV9uc3ViACBtZWFzdXJlX29yaWdpbmFsX3Jlc29sdXRpb25fc3NpbQAoY29tcHV0ZV9zc2ltX29ubHlfYXRfb3JpZ2luYWxfcmVzb2x1dGlvbgAddXNlX2xhbmN6b3NfZm9yX3ZxbV91cHNjYWxpbmcAEWRpc2FibGVfcG9zdF9wdnFzABUAJQAcjBdAAAAAAAAAABERAAAAJvzuqJ%2FgoccDFQIoAkMzGAt2dHNfcHJldmlldxwXQLOwq8an754YGWRhc2hfaDI2NC1iYXNpYy1nZW4yXzcyMHASABgYdmlkZW9zLnZ0cy5jYWxsYmFjay5wcm9kOBJWSURFT19WSUVXX1JFUVVFU1QbCogVb2VtX3RhcmdldF9lbmNvZGVfdGFnBm9lcF9oZBNvZW1fcmVxdWVzdF90aW1lX21zATAMb2VtX2NmZ19ydWxlB3VubXV0ZWQTb2VtX3JvaV9yZWFjaF9jb3VudAEwEW9lbV9pc19leHBlcmltZW50AAxvZW1fdmlkZW9faWQQMTE4MDkwOTIyOTYxMjE3OBJvZW1fdmlkZW9fYXNzZXRfaWQPODQwOTI5MTA0MTYyMjU1FW9lbV92aWRlb19yZXNvdXJjZV9pZBAxMDAxMTM1NDM0NzAxNzU4HG9lbV9zb3VyY2VfdmlkZW9fZW5jb2RpbmdfaWQPMzg2MDczMDExMTE4OTcwDnZ0c19yZXF1ZXN0X2lkACUCHAAlxAEbB4gBcwMzMjACY2QKMjAyNC0wNi0xNwNyY2IBMANhcHAFVmlkZW8CY3QZQ09OVEFJTkVEX1BPU1RfQVRUQUNITUVOVBNvcmlnaW5hbF9kdXJhdGlvbl9zCzUwNDAuODY0OTg5AnRzFXByb2dyZXNzaXZlX2VuY29kaW5ncwA%3D&ccb=9-4&oh=00_AYAOWXgsLhLDVTa4B0VhKuKtOuAzxkFNS0lLGoGrC00gBA&oe=6675888F&_nc_sid=1d576d&_nc_rid=729592576610034&_nc_store_type=1
+
 
 
 #EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://img.ophim.live/uploads/movies/cuu-long-thanh-trai-vay-thanh-poster.jpg", Cửu Long Thành Trại: Vây Thành (bản cũng đẹp fullHD)
 https://api.cloudbeta.win/file/play/9e266361-9ae8-4bfc-b5cb-687820448c1e.m3u8
 
-#EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://img.ophim.live/uploads/movies/cuu-long-thanh-trai-vay-thanh-poster.jpg", Cửu Long Thành Trại: Vây Thành (bản thuyết minh)
-https://vd382.mycdn.me/?expires=1719246269134&srcIp=116.109.98.16&pr=10&srcAg=CHROME&ms=45.136.20.11&type=5&sig=8_XP4iTmszc&ct=11&urls=45.136.21.17&clientType=0&id=6673287285353
+
 
 
 
@@ -96,40 +95,58 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8
 
 
 
+
+
+#EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Logo_La_1_UHD_2024.svg/1200px-Logo_La_1_UHD_2024.svg.png",RTVE La 1 UHD
+http://p2.cvtv.xyz/la1?token=live
+#EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://ia902703.us.archive.org/34/items/eurosport-4-k/Eurosport_4K.png",Eurosport 4K
+http://p2.cvtv.xyz/es4k?token=live
+#EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/1200px-Eurosport_1_Logo_2015.svg.png",Eurosport 1
+http://p2.cvtv.xyz/es1?token=live
+#EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/1200px-Eurosport_2_Logo_2015.svg.png",Eurosport 2
+http://p2.cvtv.xyz/es2?token=live
+#EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/1200px-Eurosport_Logo_2015.svg.png",Eurosport 3
+http://p2.cvtv.xyz/es3?token=live
+#EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/1200px-Eurosport_Logo_2015.svg.png",Eurosport 4
+http://p2.cvtv.xyz/es4?token=live
+#EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/1200px-Eurosport_Logo_2015.svg.png",Eurosport 5
+http://p2.cvtv.xyz/es5?token=live
+#EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/1200px-Eurosport_Logo_2015.svg.png",Eurosport 6
+http://p2.cvtv.xyz/es6?token=live
+#EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/BBC_Red_Button_2021.svg/1200px-BBC_Red_Button_2021.svg.png",BBC RB 1
+http://p2.cvtv.xyz/bbcrb?token=live
+#EXTINF:-1 group-title="OLYMPIC PARIS 2024" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/1200px-HOY_TV_Logo.svg.png",HOY IBC
+http://p2.cvtv.xyz/ibc?token=live
+
+
+
+
+
+
+
 #-------------------------VTV---------------------------#
-#EXTINF:-1 tvg-id="vtv1hd" group-title="🇻🇳| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1
-#EXTVLCOPT:http-user-agent=VMT
-http://171.238.181.52:18080/154.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="🇻🇳| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://171.238.180.25:18080/192.m3u8
-#EXTINF:-1 tvg-id="vtv3hd" group-title="🇻🇳| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://171.238.180.25:18080/155.m3u8
-#EXTINF:-1 tvg-id="vtv4hd" group-title="🇻🇳| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tth.vn/VTV41080p
-#EXTINF:-1 tvg-id="vtv5hd" group-title="🇻🇳| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://171.238.181.52:18080/194.m3u8
-#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="🇻🇳| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png", VTV5 Tây Nam Bộ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
-http://171.238.181.52:18080/307.m3u8
-#EXTINF:-1 tvg-id="vtv5hdtn" group-title="🇻🇳| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/7.png", VTV5 Tây Nguyên
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
-http://171.238.181.52:18080/308.m3u8
-#EXTINF:-1 tvg-id="vtv6hd" group-title="🇻🇳| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://171.238.181.52:18080/156.m3u8
-#EXTINF:-1 tvg-id="vtv7hd" group-title="🇻🇳| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/9.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tth.vn/VTV71080p
-#EXTINF:-1 tvg-id="vtv8hd" group-title="🇻🇳| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/10.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv8hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV8
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtv8/index.m3u8
-#EXTINF:-1 tvg-id="vtv9hd" group-title="🇻🇳| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/11.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tth.vn/VTV91080p
+#EXTINF:-1 logo="https://i.imgur.com/nfkmvAY.png" tvg-id="5e555f67a4af0fc7b1988396412cf529",VTV1
+http://pcrtv.ddns.net:9981/stream/channelid/1734301022?ticket=7B9A007DF9235A76812EAE886F96D7BA97311D86&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/BVwi3K3.png" tvg-id="03e03cb01da39791207c7b3ccf0dbfd5",VTV2
+http://pcrtv.ddns.net:9981/stream/channelid/809295875?ticket=6453BD5075A5E93078ED85EA39FCD26EC9247F2A&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/7rLCvgS.png" tvg-id="ab874a68914e9cfb50e04534beb918cd",VTV3
+http://pcrtv.ddns.net:9981/stream/channelid/1749714859?ticket=CD0BB352C6FB90098A5E21E8AA2AC790E59E6160&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/9zVTtsA.png" tvg-id="11952717bb8a23d6e3ddd7c7b4dc1a17",VTV4
+http://pcrtv.ddns.net:9981/stream/channelid/388470033?ticket=03E87DD71D7D35D6085E3F588B1C5794DBCC17A8&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/7qPKNFU.png" tvg-id="137ca27192a0a732e04ab2b86e2665fd",VTV5
+http://pcrtv.ddns.net:9981/stream/channelid/1906474003?ticket=03D39C8DC4364409D8E6A2D4FF4DA8E2D3DF7899&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/HCpqatZ.png" tvg-id="d496c7312bed418148f4bd3fc38a2631",VTV CẦN THƠ
+http://pcrtv.ddns.net:9981/stream/channelid/835163860?ticket=910D41CB12C5092BF4315BC538AD36DD9F739B74&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/AgamSNe.png" tvg-id="19dce6170d87ebd34222167300da39e0",VTV7
+http://pcrtv.ddns.net:9981/stream/channelid/401005593?ticket=AEF21E6C3BE6A0FC44CEFBE9973970DC51E5D33D&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/lpcltL9.png" tvg-id="339460c87ac03a39e828fd93a360985c",VTV8
+http://pcrtv.ddns.net:9981/stream/channelid/1214288947?ticket=B8718C85A95A6AAA803BA532829CC1C4F9E7E530&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/Ex1VkGQ.png" tvg-id="1ecb74a25935b99595dc57dcb2a4943e",VTV9
+http://pcrtv.ddns.net:9981/stream/channelid/578079518?ticket=518CB4C9B656CA5E120C507084CCB51F1B7A676D&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/mIUWkDx.png" tvg-id="31480f25435909503df45cd92328f84b",VTV5 TNB
+http://pcrtv.ddns.net:9981/stream/channelid/621758513?ticket=DCCFC2145EB08D0541B7ED263124D636AB99683F&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/R8c2swd.png" tvg-id="2d7ed85f475b2fe2a1d867b58907a230",VTV5 TN
+http://pcrtv.ddns.net:9981/stream/channelid/1608023597?ticket=07869F7BC47CFBB8E6A5C8E4C4BE2C16CFB3FB31&profile=pass
 #-------------------------VTV---------------------------#
 
 #-------------------------VTVcab---------------------------#

@@ -13,8 +13,8 @@ https://vip.opstream17.com/20240709/14639_d8a190d3/index.m3u8
 #EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://img.ophim.live/uploads/movies/con-bao-tien-ao-poster.jpg", Cơn Bão Tiền Ảo (VIETSUB)
 https://vip.opstream90.com/20240708/418_d1f255a3/index.m3u8
 
-#EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://img.ophim.live/uploads/movies/vung-dat-cam-lang-ngay-mot-poster.jpg", Vùng Đất Câm Lặng: Ngày Một (cam) (VIETSUB)
-https://vip.opstream13.com/20240707/4626_401574ec/index.m3u8
+#EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://img.ophim.live/uploads/movies/vung-dat-cam-lang-ngay-mot-poster.jpg", Vùng Đất Câm Lặng: Ngày Một (bản đẹp) (VIETSUB)
+https://vip.opstream90.com/20240727/1361_cf9a242b/index.m3u8
 
 #EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://img.ophim.live/uploads/movies/ke-trom-mat-trang-4-poster.jpg", Kẻ Trộm Mặt Trăng 4 (cam) (VIETSUB)
 https://vip.opstream13.com/20240704/4596_dd61de50/index.m3u8
@@ -29,7 +29,6 @@ https://s3.phim1280.tv/20240517/kHTjz9g4/index.m3u8
 https://s3.phim1280.tv/20240517/2Ln9JibR/index.m3u8
 
 
-
 #EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://img.ophim.live/uploads/movies/vay-ham-ke-trung-phat-poster.jpg", VÂY HÃM: KẺ TRỪNG PHẠT (VIETSUB)
 https://vip.opstream13.com/20240527/4143_aa4e366e/index.m3u8
 
@@ -39,7 +38,7 @@ https://vip.opstream13.com/20240531/4184_bdccb6ba/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://v3.ghienphim.me/uploads/diem-bao-cua-quy-The-First-Omen.jpg?v=1717158530", Điềm Báo Của Quỷ (VIETSUB)
-
+https://vip.opstream15.com/20240530/44083_3636c1eb/index.m3u8
 
 
 
@@ -54,7 +53,7 @@ https://s3.phim1280.tv/20240319/ym2SFUf0/index.m3u8
 https://kd.hd-bophim.com/20230324/34048_149720e6/3000k/hls/mixed.m3u8
 
 #EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://iguov8nhvyobj.vcdn.cloud/media/catalog/product/cache/1/image/c5f0a1eff4c394a251036189ccddaacd/1/0/1080x1350-insideout.jpg", Những Mảnh Ghép Cảm Xúc 2 ( Full Cam Vietsub )
-
+https://vip.opstream13.com/20240616/4329_184d0ad3/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://img.ophim.live/uploads/movies/cuu-long-thanh-trai-vay-thanh-poster.jpg", Cửu Long Thành Trại: Vây Thành (bản cũng đẹp fullHD)

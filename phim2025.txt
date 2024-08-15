@@ -2,6 +2,8 @@
 #EXTM3U LucasTV
 #http://gg.gg/phim2025
 
+#EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://starlight.vn/Areas/Admin/Content/Fileuploads/images/POSTER/borderland.jpg", Borderlands: trở lại pandora (vietsub)
+https://video.twimg.com/amplify_video/1823935380988813316/pl/avc1/1688x720/x2Lv2MyN0ROLrFpw.m3u8
 
 #EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://minhtuanmobile.com/uploads/editer/images/2024/03/ngoi-sao-5-canh-1-trieu-do-1.webp", thám tử lừng danh conan: ngôi sao năm cánh 1 triệu đô
 https://video.twimg.com/amplify_video/1823232442179973120/pl/avc1/1280x720/o2GJjZzQli39EXlo.m3u8

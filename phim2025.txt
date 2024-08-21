@@ -68,8 +68,8 @@ https://s3.phim1280.tv/20240319/ym2SFUf0/index.m3u8
 #EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://www.vietphucinema.com/temp/-uploaded-phim-12.2022_thanhsoidocnew2_cr_500x700.jpg", Thanh Sói – Cúc Dại Trong đêm (bản đẹp)
 https://kd.hd-bophim.com/20230324/34048_149720e6/3000k/hls/mixed.m3u8
 
-#EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://iguov8nhvyobj.vcdn.cloud/media/catalog/product/cache/1/image/c5f0a1eff4c394a251036189ccddaacd/1/0/1080x1350-insideout.jpg", Những Mảnh Ghép Cảm Xúc 2 ( Full Cam Vietsub )
-https://vip.opstream13.com/20240616/4329_184d0ad3/index.m3u8
+#EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://iguov8nhvyobj.vcdn.cloud/media/catalog/product/cache/1/image/c5f0a1eff4c394a251036189ccddaacd/1/0/1080x1350-insideout.jpg", Những Mảnh Ghép Cảm Xúc 2 ( Full Hack )
+https://video.twimg.com/amplify_video/1825941434752708613/pl/avc1/1720x720/_JXqCbXxej7ELrxf.m3u8
 
 
 #EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://img.ophim.live/uploads/movies/cuu-long-thanh-trai-vay-thanh-poster.jpg", Cửu Long Thành Trại: Vây Thành (bản cũng đẹp fullHD)

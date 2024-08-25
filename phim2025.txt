@@ -2,6 +2,13 @@
 #EXTM3U LucasTV
 #http://gg.gg/phim2025
 
+
+#EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://cdn.tuoitre.vn/thumb_w/730/471584752817336320/2024/8/13/edit-dep-trai-thay-sai-sai-nhan-duoc-nhieu-su-don-nhan-va-phan-hoi-tich-cuc-tu-khan-gia-anh-cgv-1723567433572545839947.jpeg", đẹp trai thấy sai sai
+https://video.twimg.com/amplify_video/1823952359317495810/pl/avc1/1280x720/zoWkvvMIazsCdm4A.m3u8
+
+#EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://iguov8nhvyobj.vcdn.cloud/media/catalog/product/cache/1/image/1800x/71252117777b696995f01934522c402d/1/9/1920x1080-amduong.jpg", âm dương sư 0: khởi nguồn (vietsub)
+https://video.twimg.com/amplify_video/1827337521618915328/pl/avc1/1728x720/PbmbhwoigWr7C3cP.m3u8
+
 #EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://starlight.vn/Areas/Admin/Content/Fileuploads/images/POSTER/borderland.jpg", Borderlands: trở lại pandora (vietsub)
 https://video.twimg.com/amplify_video/1823935380988813316/pl/avc1/1688x720/x2Lv2MyN0ROLrFpw.m3u8
 

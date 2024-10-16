@@ -2,7 +2,7 @@
 #LucasTV
 
 #https://tinyurl.com/VietXoTV
-#http://gg.gg/TV2025
+#https://s.net.vn/tv2025
 #https://note.hqth.me/raw/iptv-19687
 #http://lichphatsong.xyz/schedule/epg.xml, https://trada.info/epg.xml, https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/guide.xml,http://iptvx.one/EPG,http://epg.it999.ru/epg.xml.gz,http://lichphatsong.xyz/schedule/epg.xml,http://trada.info/epg.xml,https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/guide.xml,http://content.stream-link.org/epg/guide.xml,http://epg.ra1n.lol/jp.xml,http://epg.51zmt.top:8000/e.xml,https://epg.112114.xyz/pp.xml,http://iptvx.one/EPG,http://epg.it999.ru/epg.xml.gz,https://akkradet.github.io/IPTV-THAI/guide.xml
 

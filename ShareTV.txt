@@ -5,71 +5,6 @@
 
 
 
-#EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://img.ophim.live/uploads/movies/vay-ham-tren-khong-poster.jpg", Vây Hãm Trên Không (VIETSUB)
-https://vip.opstream13.com/20240730/4977_835bdbbe/index.m3u8
-
-#EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://img.ophim.live/uploads/movies/ngoi-den-ky-quai-4-poster.jpg", Ngôi Đền Kỳ Quái 4 (VIETSUB)
-
-#EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://img.ophim.live/uploads/movies/deadpool-va-wolverine-poster.jpg", Deadpool và Wolverine (VIETSUB)
-https://vip.opstream13.com/20240729/4949_b3c940d5/index.m3u8
-
-#EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://img.ophim.live/uploads/movies/loc-xoay-tu-than-poster.jpg", LỐC XOÁY TỬ THẦN (VIETSUB)
-https://vip.opstream13.com/20240721/4841_793f2d26/index.m3u8
-
-#EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://img.ophim.live/uploads/movies/garfield-meo-beo-sieu-quay-poster.jpg", Garfield - Mèo Béo Siêu Quậy fullHD (VIETSUB)
-https://vip.opstream17.com/20240709/14639_d8a190d3/index.m3u8
-
-#EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://img.ophim.live/uploads/movies/con-bao-tien-ao-poster.jpg", Cơn Bão Tiền Ảo (VIETSUB)
-https://vip.opstream90.com/20240708/418_d1f255a3/index.m3u8
-
-#EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://img.ophim.live/uploads/movies/vung-dat-cam-lang-ngay-mot-poster.jpg", Vùng Đất Câm Lặng: Ngày Một (bản đẹp) (VIETSUB)
-https://vip.opstream90.com/20240727/1361_cf9a242b/index.m3u8
-
-#EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://img.ophim.live/uploads/movies/ke-trom-mat-trang-4-poster.jpg", Kẻ Trộm Mặt Trăng 4 (cam) (VIETSUB)
-https://vip.opstream13.com/20240704/4596_dd61de50/index.m3u8
-
-#EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://img.ophim.live/uploads/movies/hanh-tinh-khi-vuong-quoc-moi-poster.jpg", HÀNH TINH KHỈ: VƯƠNG QUỐC MỚI (VIETSUB)
-https://vip.opstream13.com/20240512/3974_8cbcb022/index.m3u8
-
-#EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://img.phimapi.com/upload/vod/20240423-1/7b281d88350fd638d84dc9abb5b6b0a6.jpg", MAI (BẢN ĐẸP)
-https://s3.phim1280.tv/20240517/kHTjz9g4/index.m3u8
-
-#EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://img.phimapi.com/upload/vod/20240402-1/9451c8ca38286b82764df85a9e51723c.jpg", Godzilla x Kong: Đế Chế Mới (VIETSUB)
-https://s3.phim1280.tv/20240517/2Ln9JibR/index.m3u8
-
-
-#EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://img.ophim.live/uploads/movies/vay-ham-ke-trung-phat-poster.jpg", VÂY HÃM: KẺ TRỪNG PHẠT (VIETSUB)
-https://vip.opstream13.com/20240527/4143_aa4e366e/index.m3u8
-
-
-#EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://img.ophim.live/uploads/movies/furiosa-cau-chuyen-tu-max-dien-poster.jpg", FURIOSA: CÂU CHUYỆN TỪ MAX ĐIÊN (VIETSUB)
-https://vip.opstream13.com/20240531/4184_bdccb6ba/index.m3u8
-
-
-#EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://v3.ghienphim.me/uploads/diem-bao-cua-quy-The-First-Omen.jpg?v=1717158530", Điềm Báo Của Quỷ (VIETSUB)
-https://vip.opstream15.com/20240530/44083_3636c1eb/index.m3u8
-
-
-
-#EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://v3.ghienphim.me/uploads/lat-mat-7-mot-dieu-uoc.jpg?v=1714058091", Lật Mặt 7 Một Điều Ước ( Full Cam )
-
-
-
-#EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://img.phimapi.com/upload/vod/20240319-1/72195bc6fd8ffa3063dc86ec088b6ffb.jpg", Đất Rừng Phương Nam
-https://s3.phim1280.tv/20240319/ym2SFUf0/index.m3u8
-
-#EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://www.vietphucinema.com/temp/-uploaded-phim-12.2022_thanhsoidocnew2_cr_500x700.jpg", Thanh Sói – Cúc Dại Trong đêm (bản đẹp)
-https://kd.hd-bophim.com/20230324/34048_149720e6/3000k/hls/mixed.m3u8
-
-#EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://iguov8nhvyobj.vcdn.cloud/media/catalog/product/cache/1/image/c5f0a1eff4c394a251036189ccddaacd/1/0/1080x1350-insideout.jpg", Những Mảnh Ghép Cảm Xúc 2 ( Full Cam Vietsub )
-https://vip.opstream13.com/20240616/4329_184d0ad3/index.m3u8
-
-
-#EXTINF:-1 tvg-id="Phim lẻ" group-title="Phim lẻ" tvg-logo="https://img.ophim.live/uploads/movies/cuu-long-thanh-trai-vay-thanh-poster.jpg", Cửu Long Thành Trại: Vây Thành (bản cũng đẹp fullHD)
-https://api.cloudbeta.win/file/play/9e266361-9ae8-4bfc-b5cb-687820448c1e.m3u8
-
-
-
 
 
 
@@ -100,52 +35,6 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
 #EXTINF:-1 tvg-id="33" group-title="GuangDong" tvg-logo="https://www.tvchinese.net/uploads/tv/tvs5.jpg", TVS5 Children Channel
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8
 
-
-
-
-
-
-#EXTINF:1 group-title="Olympic S2-1" tvg-id="olympics21_olprtest" tvg-logo="" provider="Olympic S2-1" provider-logo="" provider-type="iptv",OLYMPIC FEED 0 MW
-http://vnes02.duckdns.org:1234/stream/olympics21/olprtest/master.m3u8?u=public&p=efa1f375d76194fa51a3556a97e641e61685f914d446979da50a551a4333ffd7
-
-#EXTINF:1 group-title="Olympic S2-1" tvg-id="olympics21_olympicfeed1mw" tvg-logo="" provider="Olympic S2-1" provider-logo="" provider-type="iptv",OLYMPIC FEED 1 MW
-http://vnes02.duckdns.org:1234/stream/olympics21/olympicfeed1mw/master.m3u8?u=public&p=efa1f375d76194fa51a3556a97e641e61685f914d446979da50a551a4333ffd7
-#EXTINF:2 group-title="Olympic S2-1" tvg-id="olympics21_olympicfeed2mw" tvg-logo="" provider="Olympic S2-1" provider-logo="" provider-type="iptv",OLYMPIC FEED 2 MW
-http://vnes02.duckdns.org:1234/stream/olympics21/olympicfeed2mw/master.m3u8?u=public&p=efa1f375d76194fa51a3556a97e641e61685f914d446979da50a551a4333ffd7
-#EXTINF:1 group-title="Olympic S1-1" tvg-id="olympics11_olympicfeed3mw" tvg-logo="" provider="Olympic S1-1" provider-logo="" provider-type="iptv",OLYMPIC FEED 3 MW
-http://vnes01.duckdns.org:1234/stream/olympics11/olympicfeed3mw/master.m3u8?u=public&p=efa1f375d76194fa51a3556a97e641e61685f914d446979da50a551a4333ffd7
-#EXTINF:2 group-title="Olympic S1-1" tvg-id="olympics11_olympicfeed4mw" tvg-logo="" provider="Olympic S1-1" provider-logo="" provider-type="iptv",OLYMPIC FEED 4 MW
-http://vnes01.duckdns.org:1234/stream/olympics11/olympicfeed4mw/master.m3u8?u=public&p=efa1f375d76194fa51a3556a97e641e61685f914d446979da50a551a4333ffd7
-#EXTINF:3 group-title="Olympic S2-1" tvg-id="olympics21_olympicfeed5mw" tvg-logo="" provider="Olympic S2-1" provider-logo="" provider-type="iptv",OLYMPIC FEED 5 MW
-http://vnes02.duckdns.org:1234/stream/olympics21/olympicfeed5mw/master.m3u8?u=public&p=efa1f375d76194fa51a3556a97e641e61685f914d446979da50a551a4333ffd7
-#EXTINF:4 group-title="Olympic S2-1" tvg-id="olympics21_olympicfeed6mw" tvg-logo="" provider="Olympic S2-1" provider-logo="" provider-type="iptv",OLYMPIC FEED 6 MW
-http://vnes02.duckdns.org:1234/stream/olympics21/olympicfeed6mw/master.m3u8?u=public&p=efa1f375d76194fa51a3556a97e641e61685f914d446979da50a551a4333ffd7
-#EXTINF:3 group-title="Olympic S1-1" tvg-id="olympics11_olympicfeed7mw" tvg-logo="" provider="Olympic S1-1" provider-logo="" provider-type="iptv",OLYMPIC FEED 7 MW
-http://vnes01.duckdns.org:1234/stream/olympics11/olympicfeed7mw/master.m3u8?u=public&p=efa1f375d76194fa51a3556a97e641e61685f914d446979da50a551a4333ffd7
-#EXTINF:4 group-title="Olympic S1-1" tvg-id="olympics11_olympicfeed8mw" tvg-logo="" provider="Olympic S1-1" provider-logo="" provider-type="iptv",OLYMPIC FEED 8 MW
-http://vnes01.duckdns.org:1234/stream/olympics11/olympicfeed8mw/master.m3u8?u=public&p=efa1f375d76194fa51a3556a97e641e61685f914d446979da50a551a4333ffd7
-#EXTINF:5 group-title="Olympic S2-1" tvg-id="olympics21_olympicfeed9mw" tvg-logo="" provider="Olympic S2-1" provider-logo="" provider-type="iptv",OLYMPIC FEED 9 MW
-http://vnes02.duckdns.org:1234/stream/olympics21/olympicfeed9mw/master.m3u8?u=public&p=efa1f375d76194fa51a3556a97e641e61685f914d446979da50a551a4333ffd7
-#EXTINF:6 group-title="Olympic S2-2" tvg-id="olympics22_olympicfeed10mw" tvg-logo="" provider="Olympic S2-2" provider-logo="" provider-type="iptv",OLYMPIC FEED 10 MW
-http://vnes02.duckdns.org:1234/stream/olympics22/olympicfeed10mw/master.m3u8?u=public&p=efa1f375d76194fa51a3556a97e641e61685f914d446979da50a551a4333ffd7
-#EXTINF:5 group-title="Olympic S1-2" tvg-id="olympics12_olympicfeed11mw" tvg-logo="" provider="Olympic S1-2" provider-logo="" provider-type="iptv",OLYMPIC FEED 11 MW 
-http://vnes01.duckdns.org:1234/stream/olympics12/olympicfeed11mw/master.m3u8?u=public&p=efa1f375d76194fa51a3556a97e641e61685f914d446979da50a551a4333ffd7
-#EXTINF:7 group-title="Olympic S2-2" tvg-id="olympics22_olympicfeed12mw" tvg-logo="" provider="Olympic S2-2" provider-logo="" provider-type="iptv",OLYMPIC FEED 12 MW
-http://vnes02.duckdns.org:1234/stream/olympics22/olympicfeed12mw/master.m3u8?u=public&p=efa1f375d76194fa51a3556a97e641e61685f914d446979da50a551a4333ffd7
-#EXTINF:6 group-title="Olympic S1-2" tvg-id="olympics12_olympicfeed13mw" tvg-logo="" provider="Olympic S1-2" provider-logo="" provider-type="iptv",OLYMPIC FEED 13 MW 
-http://vnes01.duckdns.org:1234/stream/olympics12/olympicfeed13mw/master.m3u8?u=public&p=efa1f375d76194fa51a3556a97e641e61685f914d446979da50a551a4333ffd7
-#EXTINF:8 group-title="Olympic S2-2" tvg-id="olympics22_olympicfeed14mw" tvg-logo="" provider="Olympic S2-2" provider-logo="" provider-type="iptv",OLYMPIC FEED 14 MW
-http://vnes02.duckdns.org:1234/stream/olympics22/olympicfeed14mw/master.m3u8?u=public&p=efa1f375d76194fa51a3556a97e641e61685f914d446979da50a551a4333ffd7
-#EXTINF:7 group-title="Olympic S1-2" tvg-id="olympics12_olympicfeed15mw" tvg-logo="" provider="Olympic S1-2" provider-logo="" provider-type="iptv",OLYMPIC FEED 15 MW 
-http://vnes01.duckdns.org:1234/stream/olympics12/olympicfeed15mw/master.m3u8?u=public&p=efa1f375d76194fa51a3556a97e641e61685f914d446979da50a551a4333ffd7
-#EXTINF:9 group-title="Olympic S2-2" tvg-id="olympics22_olympicfeed16mw" tvg-logo="" provider="Olympic S2-2" provider-logo="" provider-type="iptv",OLYMPIC FEED 16 MW
-http://vnes02.duckdns.org:1234/stream/olympics22/olympicfeed16mw/master.m3u8?u=public&p=efa1f375d76194fa51a3556a97e641e61685f914d446979da50a551a4333ffd7
-#EXTINF:8 group-title="Olympic S1-2" tvg-id="olympics12_olympicfeed17mw" tvg-logo="" provider="Olympic S1-2" provider-logo="" provider-type="iptv",OLYMPIC FEED 17 MW
-http://vnes01.duckdns.org:1234/stream/olympics12/olympicfeed17mw/master.m3u8?u=public&p=efa1f375d76194fa51a3556a97e641e61685f914d446979da50a551a4333ffd7
-#EXTINF:10 group-title="Olympic S2-2" tvg-id="olympics22_olympicfeed18mw" tvg-logo="" provider="Olympic S2-2" provider-logo="" provider-type="iptv",OLYMPIC FEED 18 MW
-http://vnes02.duckdns.org:1234/stream/olympics22/olympicfeed18mw/master.m3u8?u=public&p=efa1f375d76194fa51a3556a97e641e61685f914d446979da50a551a4333ffd7
-#EXTINF:9 group-title="Olympic S1-2" tvg-id="olympics12_olympicfeed19mw" tvg-logo="" provider="Olympic S1-2" provider-logo="" provider-type="iptv",OLYMPIC FEED 19 MW
-http://vnes01.duckdns.org:1234/stream/olympics12/olympicfeed19mw/master.m3u8?u=public&p=efa1f375d76194fa51a3556a97e641e61685f914d446979da50a551a4333ffd7
 
 
 
@@ -183,6 +72,9 @@ https://tth.vn/VTV81080p
 #EXTINF:0 tvg-id="vtv9hd" group-title="VTV",VTV9 HD
 https://tth.vn/VTV91080p
 #-------------------------VTV---------------------------#
+
+
+
 
 #-------------------------VTVcab---------------------------#
 #EXTINF:0 tvg-id="vtvcab1" group-title="VTV",VTVcab1 - ON Vie Giải Trí HD

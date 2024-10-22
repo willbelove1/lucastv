@@ -1,3 +1,5 @@
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml, http://trada.info/epg.xml, https://cdn.jsdelivr.net/gh/BurningC4/Chinese-IPTV@master/guide.xml, http://iptvx.one/EPG" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 
+#EXTM3U LucasTV
 #EXTINF:-1 logo="https://i.imgur.com/nfkmvAY.png" tvg-id="5e555f67a4af0fc7b1988396412cf529",VTV1
 http://pcrtv.ddns.net:9981/stream/channelid/1734301022?ticket=7B9A007DF9235A76812EAE886F96D7BA97311D86&profile=pass
 #EXTINF:-1 logo="https://i.imgur.com/BVwi3K3.png" tvg-id="03e03cb01da39791207c7b3ccf0dbfd5",VTV2

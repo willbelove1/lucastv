@@ -1,6 +1,7 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 
 #LucasTV
 
+#https://tinyurl.com/ttvv2025
 #https://tinyurl.com/VietXoTV
 #https://cvtv.xyz/
 #https://note.hqth.me/raw/iptv-19687

@@ -174,7 +174,7 @@ http://sgn-vtt-001-livecdn-vthcm-vnd.vieon.vn
 http://p1.cvtv.xyz/vtv1?token=live
 #EXTINF:0 tvg-id="vtv2hd" group-title="VTV",VTV2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edge/113.0.1774.57
-https://api.wintv.me/vtv2/index.m3u8
+http://p1.cvtv.xyz/vtv2?token=live
 #EXTINF:0 tvg-id="vtv3hd" group-title="VTV",VTV3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edge/113.0.1774.57
 http://p1.cvtv.xyz/vtv3?token=live

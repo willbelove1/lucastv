@@ -1,6 +1,8 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 
 #LucasTV (official)
 #https://tinyurl.com/ttvv2024
+#http://tth.vn/viet
+#https://github.com/luutuyen2k9/iptv-vn
 
 #-------------------------SCTV---------------------------#
 #EXTINF:-1 tvg-id="TVB Vietnam" group-title="SCTV" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/tvbv.jpg", TVB Vietnam

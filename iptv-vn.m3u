@@ -81,10 +81,10 @@ https://e1.endpoint.cdn.sctvonline.vn/hls/sctvphimtonghop/index.m3u8
 
 
 #-------------------------K+---------------------------#
-#EXTINF:-1 tvg-id="kcinehd" group-title="Kênh trả phí", K+CINE
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+", K+CINE
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #EXTVLCOPT:http-user-agent=iptv-vn
-http://125hvt.ddns.net:21585/kcine/index.m3u8
+https://125hvt.ddns.net:21585/kcine/index.m3u8
 #-------------------------K+---------------------------#
 
 

@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
+#https://github.com/thoike84/iptv-vn/blob/main/phattai84.txt
+#https://github.com/billcase/IPTV/blob/main/IPTVVIET.M3U
 
 #-------------------------SCTV---------------------------#
 #EXTINF:-1 tvg-id="TVB Vietnam" group-title="SCTV" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/tvbv.jpg", TVB Vietnam
@@ -75,7 +77,7 @@ https://e1.endpoint.cdn.sctvonline.vn/hls/sctv21/index.m3u8
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv22/index.m3u8
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/102.png",SCTV Phim Tổng Hợp
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e1.endpoint.cdn.sctvonline.vn/hls/sctvphimtonghop/index.m3u8
+https://e8.endpoint.cdn.sctvonline.vn/hls/sctvphimtonghop/index.m3u8?|Referer=http://sctvonline.vn/
 #-------------------------SCTV---------------------------#
 
 
@@ -85,17 +87,17 @@ https://e1.endpoint.cdn.sctvonline.vn/hls/sctvphimtonghop/index.m3u8
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #EXTVLCOPT:http-user-agent=iptv-vn
 https://125hvt.ddns.net:21585/kcine/index.m3u8
-#EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/As4bwUs.png", K+ CINE v1
+#EXTINF:-1 group-title="K+" tvg-logo="https://i.imgur.com/As4bwUs.png", K+ CINE v1
 http://125hvt.ddns.net:21585/kcine/index.m3u8
-#EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/As4bwUs.png", K+ CINE 
+#EXTINF:-1 group-title="K+" tvg-logo="https://i.imgur.com/As4bwUs.png", K+ CINE 
 http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1946352900?profile=pass
-#EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/QPkuBRi.png", K+ ACTION 
+#EXTINF:-1 group-title="K+" tvg-logo="https://i.imgur.com/QPkuBRi.png", K+ ACTION 
 http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/916837844?profile=pass
-#EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/6yiAtRg.png", K+ SPORT1 
+#EXTINF:-1 group-title="K+" tvg-logo="https://i.imgur.com/6yiAtRg.png", K+ SPORT1 
 https://hodam:66668888@tvh.hothanhdam.dsmynas.com/stream/channelid/556914677?profile=pass
-#EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/EFeyqYX.png", K+ SPORT2
+#EXTINF:-1 group-title="K+" tvg-logo="https://i.imgur.com/EFeyqYX.png", K+ SPORT2
 http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/541337809?profile=pass
-#EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/erWqYxh.png", K+ KIDS 
+#EXTINF:-1 group-title="K+" tvg-logo="https://i.imgur.com/erWqYxh.png", K+ KIDS 
 #-------------------------K+---------------------------#
 
 
@@ -164,7 +166,7 @@ http://113.175.179.141:4022/rtp/232.84.3.245:11392
 
 #----------*-VTV-*----------#
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
-https://s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/hls/vtv1/index.m3u8?|Referer=http://sctvonline.vn/
+https://e4.endpoint.cdn.sctvonline.vn/hls/vtv1/index.m3u8?|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
 https://s2.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s2.edge.cdn.sctvonline.vn/hls/vtv2/index.m3u8?|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3

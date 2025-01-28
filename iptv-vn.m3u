@@ -106,7 +106,7 @@ https://vc.101vn.com/htv/htvcmb.php?id=256
 #EXTINF:-1 tvg-id="htv9hd" group-title="HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/52.png",HTV9 
 https://vc.101vn.com/htv/htvcmb.php?id=2667
 #EXTINF:0 tvg-id="htvthethaohd" group-title="HTV" group-logo="https://img.hplus.com.vn/728x409/banner/2018/07/16/200515-111250-HTVTT.png",HTV Thể Thao
-http://171.238.180.25:18080/304.m3u8
+https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
 #-------------------------HTV---------------------------#
 
 
@@ -114,43 +114,20 @@ http://171.238.180.25:18080/304.m3u8
 
 
 #-------------------------HTVC---------------------------#
-#EXTINF:-1 tvg-id="htvcthuanviet" group-title="HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/54.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthuanviet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Thuần Việt
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tth.vn/htvcthuanviet
-#EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/56.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcgiadinh_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Gia đình HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tth.vn/htvcgiadinh
-#EXTINF:-1 tvg-id="htvcphunuhd" group-title="HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/57.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/htvc-phu-nu/${start}/${offset}", HTVC Phụ nữ HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tth.vn/htvcphunu
-#EXTINF:-1 tvg-id="htvcdulichhd" group-title="HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/58.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/htvc-du-lich-cuoc-song/${start}/${offset}", HTVC Du lịch và Cuộc sống HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://tth.vn/htvcdulich
-#EXTINF:-1 tvg-id="htvccanhachd" group-title="HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/59.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/htvc-ca-nhac/${start}/${offset}", HTVC Ca nhạc HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tth.vn/htvccanhac
-#EXTINF:-1 tvg-id="htvcphimhd" group-title="HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/60.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcmovieshd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Phim HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tth.vn/htvcphim
-#EXTINF:-1 tvg-id="htvcplushd" group-title="HTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/61.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/htvc-plus/${start}/${offset}", HTVC Plus HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tth.vn/htvcplus
-#EXTINF:0 tvg-id="htvccanhachd" group-title="HTV" tvg-logo="https://i.imgur.com/ZHVkEIC.png",HTVC Ca Nhạc Dự phòng
-http://113.175.179.141:4022/rtp/232.84.3.54:11728
-#EXTINF:0 tvg-id="htvcdulichhd" group-title="HTV" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC Du Lịch và Cuộc Sống Dự phòng
-http://113.175.179.141:4022/rtp/232.84.3.53:11734
-#EXTINF:0 tvg-id="htvcgiadinhhd" group-title="HTV" tvg-logo="https://i.imgur.com/KxWRNH6.png",HTVC Gia Đình Dự phòng
-http://113.175.179.141:4022/rtp/232.84.3.52:11740
-#EXTINF:0 tvg-id="htvcphimhd" group-title="HTV" tvg-logo="https://i.imgur.com/SXV3ya9.png",HTVC Phim Dự phòng
-http://113.175.179.141:4022/rtp/232.84.2.133:9594
-#EXTINF:0 tvg-id="htvcphimhd" group-title="HTV" tvg-logo="https://i.imgur.com/SXV3ya9.png",HTVC Phim Dự phòng 2
-http://113.175.179.141:4022/rtp/232.84.3.118:9594
-#EXTINF:0 tvg-id="htvcphunuhd" group-title="HTV" tvg-logo="https://i.imgur.com/PLliKL6.png",HTVC Phụ Nữ Dự phòng
-http://113.175.179.141:4022/rtp/232.84.3.51:11746
-#EXTINF:0 tvg-id="htvcthuanviet" group-title="HTV" tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC Thuần Việt Dự phòng
-http://113.175.179.141:4022/rtp/232.84.2.134:9600
-#EXTINF:0 tvg-id="htvcplushd" group-title="HTV" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC+ Dự phòng
-http://113.175.179.141:4022/rtp/232.84.3.245:11392
+#EXTINF:-1 group-title="HTV" tvg-logo="https://i.imgur.com/ZHVkEIC.png",HTVC Ca Nhạc
+https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="HTV" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC Du Lịch và Cuộc Sống
+https://live.fptplay53.net/epzhd1/htvcdulich_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="HTV" tvg-logo="https://i.imgur.com/KxWRNH6.png",HTVC Gia Đình
+https://live.fptplay53.net/epzhd1/htvcgiadinh_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="HTV" tvg-logo="https://i.imgur.com/SXV3ya9.png",HTVC Phim
+https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="HTV" tvg-logo="https://i.imgur.com/PLliKL6.png",HTVC Phụ Nữ
+https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="HTV" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC Plus
+https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="HTV" tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC Thuần Việt
+https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
 #-------------------------HTVC---------------------------#
 
 

@@ -84,9 +84,9 @@ https://e8.endpoint.cdn.sctvonline.vn/hls/sctvphimtonghop/index.m3u8?|Referer=ht
 
 
 #-------------------------K+---------------------------#
-#EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ CINE 
+#EXTINF:-1 group-title="K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ CINE 
 https://509942876.r.vtvcdn.com/onplus/K_CINE_7777/m20_index.m3u8
-#EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ ACTION 
+#EXTINF:-1 group-title="K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ ACTION 
 https://509942876.r.vtvcdn.com/onplus/K_LIFE_7777/m20_index.m3u8
 #-------------------------K+---------------------------#
 

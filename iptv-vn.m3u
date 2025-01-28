@@ -50,7 +50,7 @@ https://e1.endpoint.cdn.sctvonline.vn/hls/sctv13/index.m3u8
 https://z215ymcm4tliv.vcdn.cloud/s8/hls/sctv14/index.m3u8
 #EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/77.png",SCTV15
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://live2cloud.sgchill.io.vn/hls/v2/uid:vmttv/ip:122:46:728:99/play/sctv/sctv15.smil/index.m3u8
+http://e5.endpoint.cdn.sctvonline.vn/hls/sctv15/index.m3u8?|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv15hd" group-title="SCTV", SCTV15
 #EXTVLCOPT:http-referer=http://sctvonline.vn/
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3

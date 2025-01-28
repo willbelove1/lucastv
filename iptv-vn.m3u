@@ -192,17 +192,6 @@ https://s10.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn
 #----------*-VTVCAB-*----------#
 
 
-#-------------------------THVL---------------------------#
-#EXTINF:-1 group-title="THVL"tvg-logo="https://i.imgur.com/pTVybK6.png",THVL1 | TH Vĩnh Long
-https://s2.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s2.edge.cdn.sctvonline.vn/hls/thvl1/index.m3u8?|Referer=http://sctvonline.vn/
-#EXTINF:-1 group-title="THVL"tvg-logo="https://i.imgur.com/MsHdGNZ.png",THVL2 | TH Vĩnh Long
-https://s2.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s2.edge.cdn.sctvonline.vn/hls/thvl2/index.m3u8?|Referer=http://sctvonline.vn/
-#EXTINF:-1 group-title="THVL"tvg-logo="https://i.imgur.com/44c1Yoz.png",THVL3 | TH Vĩnh Long
-https://s2.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s2.edge.cdn.sctvonline.vn/hls/thvl3/index.m3u8?|Referer=http://sctvonline.vn/
-#EXTINF:-1 group-title="THVL"tvg-logo="https://i.imgur.com/JWDsJxB.png",THVL4 | TH Vĩnh Long
-https://s2.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s2.edge.cdn.sctvonline.vn/hls/thvl4/index.m3u8?|Referer=http://sctvonline.vn/
-#-------------------------THVL---------------------------#
-
 
 
 #-------------------------Địa phương---------------------------#

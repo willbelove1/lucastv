@@ -32,7 +32,7 @@ https://e1.endpoint.cdn.sctvonline.vn/hls/sctv7/index.m3u8
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv8/index.m3u8
 #EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/71.png",SCTV9
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://e1.endpoint.cdn.sctvonline.vn/hls/sctv9/index.m3u8
+https://s1.edge.cdn.sctvonline.vn/hls/sctv9/index.m3u8
 #EXTINF:-1 tvg-id="sctv10hd" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/72.png",SCTV10
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv10/index.m3u8

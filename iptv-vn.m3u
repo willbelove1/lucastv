@@ -79,6 +79,27 @@ http://e5.endpoint.cdn.sctvonline.vn/hls/sctv22/index.m3u8?|Referer=http://sctvo
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/102.png",SCTV Phim Tổng Hợp
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://z215ymcm4tliv.vcdn.cloud/s8/hls/sctvphimtonghop/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",嘉佳卡通 (广东) (540p) [Not 24/7]
+http://112.25.48.68/live/program/live/jjkt/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",四川 Ⅰ 四川影视台 (720p) [Not 24/7]
+http://scgctvshow.sctv.com/hdlive/sctv5/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",四川 Ⅰ 四川新闻台 (720p) [Not 24/7]
+http://scgctvshow.sctv.com/hdlive/sctv4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",四川 Ⅰ 巴中综合台 (1080p) [Not 24/7]
+http://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_246.flv
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",四川 Ⅰ 星空购物台 (720p) [Not 24/7]
+http://scgctvshow.sctv.com/hdlive/sctv6/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",四川 Ⅰ 达州公共台 (720p) [Not 24/7]
+http://m3u8.channellive.dzxw.net/cms/videos/nmip-media/channellive/channel36/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",四川 Ⅰ 达州综合台 (720p) [Not 24/7]
+http://m3u8.channellive.dzxw.net/cms/videos/nmip-media/channellive/channel35/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",四川公共 (720p)
+http://scgctvshow.sctv.com/hdlive/sctv9/index.m3u8
+#EXTINF:-1 tvg-id="SichuanSatelliteTV.cn" tvg-logo="https://i.imgur.com/r5xivih.png" group-title="Undefined",四川卫视 (576p)
+http://39.134.115.163:8080/PLTV/88888910/224/3221225733/index.m3u8
+#EXTINF:-1 tvg-id="SichuanTVWomenandChildrenChannel.cn" tvg-logo="https://i.imgur.com/1lGO0vY.png" group-title="Family",四川妇女儿童 (720p) [Not 24/7]
+http://scgctvshow.sctv.com/hdlive/sctv7/index.m3u8
+
 #-------------------------SCTV---------------------------#
 
 

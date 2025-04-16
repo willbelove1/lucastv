@@ -5,7 +5,7 @@
 
 #-------------------------SCTV---------------------------#
 #EXTINF:-1 tvg-id="TVB Vietnam" group-title="SCTV" tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/tvbv.jpg", TVB Vietnam
-#https://bcovlive-a.akamaihd.net/07d9c30456d94f3dbbcd39af064fdefa/us-west-2/6314468039001/0914b33308e3498da3b00fe2c050764e/playlist_ssaiM.m3u8
+https://bcovlive-a.akamaihd.net/d2fcbeaead4b425fa13d4fec961fc47a/us-east-1/6240731308001/playlist.m3u8 
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" group-logo="https://cdn.hqth.me/logo/category/sctv.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/63.png",SCTV1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://s1.edge.cdn.sctvonline.vn/hls/sctv1/index.m3u8

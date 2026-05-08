@@ -209,7 +209,7 @@ https://liveh34.vtvprime.vn/hls/SCTV8/03.m3u8
 
 #EXTINF:-1 tvg-id="sctv9hd" group-title="SCTV" tvg-logo="https://vnepg.site/schedule/image.php?url=https%3A%2F%2Fvnepg.site%2Flogos%2F53.png&w=800", SCTV9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://livevlisctcdnw.seenow.vn/mean/SCTV9/manifest.mpd
+http://hoatv001.ddns.net/iptv/admin.php?stream=d5b9a3d74e9055522359f345e6eff586&token=7da42f2cc77c9cd752491d1353982e75
 
 #EXTINF:-1 tvg-id="sctv10hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/giangnam0201/All-In-One-IPTV/refs/heads/main/logos/sctv/10_dd39c053.jpg", SCTV10
 https://liveh34.vtvprime.vn/hls/SCTV10/index.m3u8

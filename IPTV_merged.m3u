@@ -1,7 +1,7 @@
-#EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
+#EXTM3U url-tvg="https://vnepg.site/epg.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1
 # ==============================================================
 # IPTV Merged Playlist — iptvleak (chính) + XemTV/FPT (dự phòng)
-# Tạo bởi script merge — Cập nhật: 2025
+# Tạo bởi script merge — Cập nhật: 06/2026
 # ==============================================================
 
 
@@ -26,6 +26,9 @@ http://hoatv001.ddns.net/iptv/admin.php?stream=ca0126acaadde4f367e848ac4e9dbb0e&
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png" tvg-id="vtv5hd",VTV5
 http://hoatv001.ddns.net/iptv/admin.php?stream=98b5766d564fe890750f30a775aa75f6&token=7da42f2cc77c9cd752491d1353982e75
 
+
+#EXTINF:-1 group-title="VTV" tvg-logo="http://hoatv001.ddns.net/logo/VTV6.png" tvg-id="vtv6hd",VTV6
+http://hoatv001.ddns.net/iptv/admin.php?stream=f09cf89a7d25e03d94eb750ffbd9fa3c&token=7da42f2cc77c9cd752491d1353982e75
 #EXTINF:-1 group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV10.png" tvg-id="vtvcantho",VTV10
 http://hoatv001.ddns.net/iptv/admin.php?stream=151bc21d84bcdecec3a98fe4843f9341&token=7da42f2cc77c9cd752491d1353982e75
 
@@ -97,6 +100,9 @@ http://hoatv001.ddns.net/iptv/admin.php?stream=aeb9255b9bc3db3ea215d741eceaad46&
 #EXTINF:-1 group-title="HTV" tvg-logo="https://i.imgur.com/2iE01Ca.png" tvg-id="htv3",HTV3 HD
 http://hoatv001.ddns.net/iptv/admin.php?stream=e91b2283d346c149057ed333305e10e8&token=7da42f2cc77c9cd752491d1353982e75
 
+
+#EXTINF:-1 group-title="HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo_HTV4.png" tvg-id="htv4",HTV4
+http://hoatv001.ddns.net/iptv/admin.php?stream=36ebb0235afcc7d42930e916c2a45ac9&token=7da42f2cc77c9cd752491d1353982e75
 #EXTINF:-1 group-title="HTV" tvg-logo="https://i.imgur.com/wrH7U0X.png" tvg-id="htvkey",HTV Key HD
 http://hoatv001.ddns.net/iptv/admin.php?stream=36ebb0235afcc7d42930e916c2a45ac9&token=7da42f2cc77c9cd752491d1353982e75
 
